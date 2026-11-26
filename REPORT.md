@@ -1,6 +1,6 @@
-# Laporan — 2026-11-26T12:54:22Z
+# Laporan — 2026-11-26T13:16:41Z
 
-- Total **41** · 🟢 **33** · 🔴 **8** · dihapus **28**
+- Total **61** · 🟢 **53** · 🔴 **8** · dihapus **35**
 
 | Nama | Status | Keterangan |
 |---|---|---|
@@ -17,9 +17,6 @@
 | Halte Ro.ulin | 🆕 NEW | kamera baru dari sumber |
 | Halte_stimik | 🆕 NEW | kamera baru dari sumber |
 | Halte_unlam_1 | 🆕 NEW | kamera baru dari sumber |
-| Jembatan Al-mansyur | 🆕 NEW | kamera baru dari sumber |
-| Jembatan Cempaka 2 | 🆕 NEW | kamera baru dari sumber |
-| Jembatan Kembar Arah Banjarbaru | 🆕 NEW | kamera baru dari sumber |
 | Jembatan Kembar Arah Banjarmasin | 🆕 NEW | kamera baru dari sumber |
 | Jembatan Tonhar Landasan Ulin | 🆕 NEW | kamera baru dari sumber |
 | JPO Dalam Selatan | 🆕 NEW | kamera baru dari sumber |
@@ -29,24 +26,47 @@
 | KM33 Utara Arah Ro-ulin | 🆕 NEW | kamera baru dari sumber |
 | Perempatan Taruna Praja (barjad) | 🆕 NEW | kamera baru dari sumber |
 | Pertigaan Sungai Ulin Arah Banjarbaru | 🆕 NEW | kamera baru dari sumber |
-| Pertigaan Trikora RO Ulin Arah Masjid Agung | 🆕 NEW | kamera baru dari sumber |
 | Polsek BJB Arah Simpang Empat | 🆕 NEW | kamera baru dari sumber |
-| PTZ RO Ulin 33 Arah Banjarmasin | 🆕 NEW | kamera baru dari sumber |
 | STIMIK Arah Banjarbaru | 🆕 NEW | kamera baru dari sumber |
 | Sultan Agung Arah Banjarmasin | 🆕 NEW | kamera baru dari sumber |
 | Taman Mawar | 🆕 NEW | kamera baru dari sumber |
-| The Breeze Water Park | 🆕 NEW | kamera baru dari sumber |
 | Jembatan Cempaka 1 | 🆕 NEW | kamera baru dari sumber |
-| Lapangan Murdjani PTZ | 🆕 NEW | kamera baru dari sumber |
 | Brimob Arah Banjarmasin | 🆕 NEW | kamera baru dari sumber |
-| A1 SPBU Simpang 4 | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
-| A3 PTZ Simpang 4 | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
-| Bundaran Palam Trikora Taman PAMA | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
-| Bundaran Trikora Masjid Al-munawarah | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
-| JPO Dalam Utara | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
-| Pertigaan Sungai Ulin Arah Mandiangin | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
-| PTZ Taman Mawar Arah SD | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
-| Trikora A.yani Ujung | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
+| Kamboja Taman View 1 | 🆕 NEW | kamera baru dari sumber |
+| Kamboja Taman View 2 | 🆕 NEW | kamera baru dari sumber |
+| Jembatan Patih Turunan kanan | 🆕 NEW | kamera baru dari sumber |
+| Jembatan Patih Sisi Kanan | 🆕 NEW | kamera baru dari sumber |
+| Jembatan Patih Simpang 3 | 🆕 NEW | kamera baru dari sumber |
+| TPS Kuripan kiri | 🆕 NEW | kamera baru dari sumber |
+| TPS Kuripan kanan | 🆕 NEW | kamera baru dari sumber |
+| TPS Kuripan | 🆕 NEW | kamera baru dari sumber |
+| Taman Kelayan Sungai | 🆕 NEW | kamera baru dari sumber |
+| Taman Kelayan Utama | 🆕 NEW | kamera baru dari sumber |
+| Taman Kelayan Basket | 🆕 NEW | kamera baru dari sumber |
+| Siring Dermaga | 🆕 NEW | kamera baru dari sumber |
+| Siring Pos Dermaga | 🆕 NEW | kamera baru dari sumber |
+| Pintu Masuk Menara Pandang | 🆕 NEW | kamera baru dari sumber |
+| Siring 0km | 🆕 NEW | kamera baru dari sumber |
+| Siring 0km 2 | 🆕 NEW | kamera baru dari sumber |
+| Siring 0km Panggung | 🆕 NEW | kamera baru dari sumber |
+| Samping Tugu 0km | 🆕 NEW | kamera baru dari sumber |
+| Jembatan Pulau Bromo Turunan | 🆕 NEW | kamera baru dari sumber |
+| Halaman Jembatan Pulau Bromo | 🆕 NEW | kamera baru dari sumber |
+| Kelayan - Rusunawa Persimpangan | 🆕 NEW | kamera baru dari sumber |
+| Taman Jahri Saleh View 2 | 🆕 NEW | kamera baru dari sumber |
+| Taman Jahri Saleh View 1 | 🆕 NEW | kamera baru dari sumber |
+| Taman Jahri Saleh Pintu Masuk | 🆕 NEW | kamera baru dari sumber |
+| Jembatan SakaHarang | 🆕 NEW | kamera baru dari sumber |
+| Pulau Insan | 🆕 NEW | kamera baru dari sumber |
+| Bundaran Pintu Masuk Sabilal | 🆕 NEW | kamera baru dari sumber |
+| Arah Gerbang ULM | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
+| Arah Museum | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
+| Bundaran Topi Toga | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
+| Depan G.bhayangkara | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
+| Depan STIMIK Arah Banjarmasin | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
+| Halte_minggu_raya | ⚠️ FAIL | segmen HTTP 404 (gagal 1/3) |
+| Pertigaan Sungai Ulin Arah Mandiangin | ⚠️ FAIL | segmen HTTP 404 (gagal 2/3) |
+| Trikora A.yani Ujung | ⚠️ FAIL | segmen HTTP 404 (gagal 2/3) |
 | B2 Cempaka Simpang 4 | ❌ REMOVED | baru tapi mati, dilewati |
 | Balai Kota Arah Murdjani | ❌ REMOVED | baru tapi mati, dilewati |
 | Bundaran Amaco | ❌ REMOVED | baru tapi mati, dilewati |
@@ -70,8 +90,15 @@
 | Perempatan Taruna Praja (barjad) | ❌ REMOVED | baru tapi mati, dilewati |
 | Pertigaan Sungai Ulin Arah Banjarbaru | ❌ REMOVED | baru tapi mati, dilewati |
 | Polsek BJB Arah Simpang Empat | ❌ REMOVED | baru tapi mati, dilewati |
-| STIMIK Arah Banjarbaru | ❌ REMOVED | baru tapi mati, dilewati |
 | Sultan Agung Arah Banjarmasin | ❌ REMOVED | baru tapi mati, dilewati |
 | Taman Mawar | ❌ REMOVED | baru tapi mati, dilewati |
 | Jembatan Cempaka 1 | ❌ REMOVED | baru tapi mati, dilewati |
 | Brimob Arah Banjarmasin | ❌ REMOVED | baru tapi mati, dilewati |
+| Kamboja Taman View 1 | ❌ REMOVED | baru tapi mati, dilewati |
+| Kamboja Taman View 2 | ❌ REMOVED | baru tapi mati, dilewati |
+| Jembatan Patih Simpang 3 | ❌ REMOVED | baru tapi mati, dilewati |
+| Taman Kelayan Utama | ❌ REMOVED | baru tapi mati, dilewati |
+| Siring Dermaga | ❌ REMOVED | baru tapi mati, dilewati |
+| Siring Pos Dermaga | ❌ REMOVED | baru tapi mati, dilewati |
+| Pintu Masuk Menara Pandang | ❌ REMOVED | baru tapi mati, dilewati |
+| Kelayan - Rusunawa Persimpangan | ❌ REMOVED | baru tapi mati, dilewati |

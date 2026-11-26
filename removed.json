@@ -115,11 +115,6 @@
     "reason": "baru tapi mati, dilewati"
   },
   {
-    "key": "bjb-depan_stimik_arah_banjarbaru",
-    "name": "STIMIK Arah Banjarbaru",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
     "key": "bjb-sultan_agung_arah_banjarmasin",
     "name": "Sultan Agung Arah Banjarmasin",
     "reason": "baru tapi mati, dilewati"
@@ -137,6 +132,46 @@
   {
     "key": "bjb-marka_brimob_arah_banjarmasin",
     "name": "Brimob Arah Banjarmasin",
+    "reason": "baru tapi mati, dilewati"
+  },
+  {
+    "key": "bjm-6bf68c1e-6c73-4e0a-8408-8307cac977ef",
+    "name": "Kamboja Taman View 1",
+    "reason": "baru tapi mati, dilewati"
+  },
+  {
+    "key": "bjm-b8b9421b-aa8b-4321-b441-029a952661a3",
+    "name": "Kamboja Taman View 2",
+    "reason": "baru tapi mati, dilewati"
+  },
+  {
+    "key": "bjm-11c9677a-2228-4323-9d48-731862838391",
+    "name": "Jembatan Patih Simpang 3",
+    "reason": "baru tapi mati, dilewati"
+  },
+  {
+    "key": "bjm-e7d6d96d-cf7c-402f-8c6c-d98a362b0e65",
+    "name": "Taman Kelayan Utama",
+    "reason": "baru tapi mati, dilewati"
+  },
+  {
+    "key": "bjm-c625b143-3fed-4262-93ad-18fa4e64c29e",
+    "name": "Siring Dermaga",
+    "reason": "baru tapi mati, dilewati"
+  },
+  {
+    "key": "bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2",
+    "name": "Siring Pos Dermaga",
+    "reason": "baru tapi mati, dilewati"
+  },
+  {
+    "key": "bjm-6d9c3172-6b3a-4830-95a4-8d67d40313c5",
+    "name": "Pintu Masuk Menara Pandang",
+    "reason": "baru tapi mati, dilewati"
+  },
+  {
+    "key": "bjm-b154a149-adca-4260-9fb1-3fd188d0768e",
+    "name": "Kelayan - Rusunawa Persimpangan",
     "reason": "baru tapi mati, dilewati"
   }
 ]
