@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-update_streams.py — CCTV publik Kota Banjarbaru (Kalimantan Selatan).
-Sumber: https://cctv.banjarbarukota.go.id/ (JSON data-page -> props.cameras).
+update_streams.py — CCTV publik Kalimantan Selatan (Banjarbaru + Banjarmasin).
+Sumber: cctv.banjarbarukota.go.id (data-page JSON) & cctv.banjarmasinkota.go.id (/api/maps/get).
 Output: streams.m3u8, status.json, history.json, data/uptime.csv, CHANGELOG.md,
 REPORT.md, removed.json, blok STATUS+LINKS di README, dan (--thumbs) thumbs/*.jpg.
 Nama repo otomatis dari env GITHUB_REPOSITORY. Hanya Python 3.9+; --thumbs butuh ffmpeg.
@@ -27,13 +27,14 @@ REPO = os.environ.get("GITHUB_REPOSITORY", "owner/repo")
 RAW_BASE = f"https://raw.githubusercontent.com/{REPO}/main"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
-BANJARBARU_PAGE = "https://cctv.banjarbarukota.go.id/"
+BANJARBARU_PAGE  = "https://cctv.banjarbarukota.go.id/"
+BANJARMASIN_API  = "https://cctv.banjarmasinkota.go.id/api/maps/get"
 DEFAULT_MAX_FAILS = 3
 DEFAULT_TIMEOUT   = 12
 DEFAULT_WORKERS   = 10
 HISTORY_LEN       = 30
 SSL_CTX = ssl.create_default_context(); SSL_CTX.check_hostname = False; SSL_CTX.verify_mode = ssl.CERT_NONE
-TOKEN_RE = re.compile(r"[?&](token|expires?|expiration|signature|sig|auth|hdnts|hdnea|policy|key-pair-id)=", re.I)
+TOKEN_RE = re.compile(r"[?&](token|expires?|expiration|signature|sig|auth|hdnts|hdnea|policy|key-pair-id|exp)=", re.I)
 README_START = "<!-- STATUS:START -->"; README_END = "<!-- STATUS:END -->"
 LINKS_START  = "<!-- LINKS:START -->";  LINKS_END  = "<!-- LINKS:END -->"
 
@@ -42,7 +43,12 @@ def now_iso(): return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 def wib_now(): return datetime.now(timezone(timedelta(hours=7))).strftime("%d %b %Y %H:%M WIB")
 def normalize_name(s): return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 def logo_for(key): return f"{RAW_BASE}/thumbs/{key}.jpg"
-def referer_for(url): return "https://cctv.banjarbarukota.go.id/"
+
+
+def referer_for(url):
+    if "banjarbarukota.go.id" in url: return "https://cctv.banjarbarukota.go.id/"
+    if "banjarmasinkota.go.id" in url or "aldilinux.my.id" in url: return "https://cctv.banjarmasinkota.go.id/"
+    return "https://opencctv.org/"
 
 
 def is_stable_stream(url):
@@ -119,7 +125,7 @@ def scrape_banjarbaru(limit=None):
         if c.get("is_active") is False: continue
         hls = ((c.get("streams") or {}).get("hls") or "")
         if not hls: continue
-        url = hls.split("?")[0]  # buang ?cookieCheck (opsional, bukan token)
+        url = hls.split("?")[0]
         if not is_stable_stream(url): continue
         slug = c.get("slug") or str(c.get("id"))
         cat = c.get("category")
@@ -127,6 +133,26 @@ def scrape_banjarbaru(limit=None):
         out.append({"key": f"bjb-{slug}", "name": (c.get("name") or slug).strip(), "group": group,
                     "url": url, "lat": c.get("latitude"), "lng": c.get("longitude"),
                     "extra": [f"#EXTVLCOPT:http-user-agent={UA}", "#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/"]})
+        if limit and len(out) >= limit: break
+    return out
+
+
+def scrape_banjarmasin(limit=None):
+    st, body = http_get(BANJARMASIN_API)
+    if st != 200: raise RuntimeError(f"Banjarmasin HTTP {st}")
+    feats = (json.loads(body.decode("utf-8", "ignore")).get("data") or {}).get("features") or []
+    if not feats: raise RuntimeError("Banjarmasin: daftar kamera kosong")
+    out = []
+    for f in feats:
+        p = f.get("properties") or {}
+        url = (p.get("url") or "").split("?")[0]
+        if not url or not is_stable_stream(url): continue
+        uuid = p.get("uuid") or url.rsplit("/", 1)[-1].split(".")[0]
+        try: lat, lng = float(p.get("latitude")), float(p.get("longitude"))
+        except (TypeError, ValueError): lat = lng = None
+        out.append({"key": f"bjm-{uuid}", "name": (p.get("name") or uuid).strip(), "group": "Banjarmasin",
+                    "url": url, "lat": lat, "lng": lng,
+                    "extra": [f"#EXTVLCOPT:http-user-agent={UA}", "#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/"]})
         if limit and len(out) >= limit: break
     return out
 
@@ -320,6 +346,8 @@ def main():
     ap.add_argument("--workers", type=int, default=DEFAULT_WORKERS)
     ap.add_argument("--timeout", type=int, default=DEFAULT_TIMEOUT)
     ap.add_argument("--limit", type=int, default=None)
+    ap.add_argument("--skip-banjarbaru", action="store_true")
+    ap.add_argument("--skip-banjarmasin", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--thumbs", action="store_true")
     args = ap.parse_args()
@@ -335,13 +363,19 @@ def main():
     entries = parse_m3u(args.playlist)
     print(f"[i] Playlist lama: {len(entries)} entri")
 
-    catalog, source_ok = {}, False
-    try:
-        it = scrape_banjarbaru(limit=args.limit)
-        for x in it: catalog[x["key"]] = x
-        source_ok = True; print(f"[+] banjarbaru: {len(it)} kamera")
-    except Exception as e:
-        print(f"[!] banjarbaru: {e} -> entri lama dipertahankan")
+    catalog, source_ok = {}, {"banjarbaru": False, "banjarmasin": False}
+    if not args.skip_banjarbaru:
+        try:
+            it = scrape_banjarbaru(limit=args.limit)
+            for x in it: catalog[x["key"]] = x
+            source_ok["banjarbaru"] = True; print(f"[+] banjarbaru: {len(it)}")
+        except Exception as e: print(f"[!] banjarbaru: {e}")
+    if not args.skip_banjarmasin:
+        try:
+            it = scrape_banjarmasin(limit=args.limit)
+            for x in it: catalog[x["key"]] = x
+            source_ok["banjarmasin"] = True; print(f"[+] banjarmasin: {len(it)}")
+        except Exception as e: print(f"[!] banjarmasin: {e}")
 
     report = merge_catalog(entries, catalog)
     entries, dup_removed = dedup_urls(entries)
@@ -349,9 +383,10 @@ def main():
         report.append((e["name"], "REMOVED", why)); state.pop(e["key"], None); history.pop(e["key"], None)
 
     for e in entries:
-        if source_ok and e["key"] not in catalog:
+        src = "banjarbaru" if e["key"].startswith("bjb-") else ("banjarmasin" if e["key"].startswith("bjm-") else None)
+        if src and source_ok[src] and e["key"] not in catalog:
             st = state.setdefault(e["key"], {"fail": 0, "missing": 0}); st["missing"] = st.get("missing", 0) + 1
-        else:
+        elif src:
             state.setdefault(e["key"], {"fail": 0, "missing": 0})["missing"] = 0
 
     print(f"[i] Cek {len(entries)} link...")
@@ -388,7 +423,7 @@ def main():
     live = sum(1 for v in results.values() if v[0])
     summary = {"generated_at": now_iso(), "generated_wib": wib_now(), "total": len(kept),
                "live": live, "offline": len(kept) - live, "removed": len(removed) + len(dup_removed),
-               "sources": {"banjarbaru": source_ok}}
+               "sources": source_ok}
     print(f"[i] Ringkasan: {summary}")
     if args.dry_run:
         print("[i] DRY-RUN."); return 0
