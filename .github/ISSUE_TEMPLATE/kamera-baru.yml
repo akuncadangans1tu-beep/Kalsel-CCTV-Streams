@@ -1,0 +1,41 @@
+name: Usul kamera baru
+description: Usulkan kamera CCTV publik Banjarbaru / Kalsel untuk ditambahkan
+title: "[kamera-baru] Nama kamera"
+labels: ["kamera-baru"]
+body:
+  - type: input
+    id: nama
+    attributes:
+      label: Nama kamera
+      placeholder: CCTV Bundaran Contoh
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL stream (.m3u8)
+      placeholder: https://.../index.m3u8
+    validations:
+      required: true
+  - type: input
+    id: sumber
+    attributes:
+      label: Sumber resmi (situs pemilik kamera)
+      placeholder: https://cctv.banjarbarukota.go.id/
+    validations:
+      required: true
+  - type: input
+    id: wilayah
+    attributes:
+      label: Wilayah / kecamatan / lokasi
+    validations:
+      required: true
+  - type: checkboxes
+    id: konfirmasi
+    attributes:
+      label: Konfirmasi
+      options:
+        - label: Kamera ini publik & legal disiarkan untuk umum
+          required: true
+        - label: URL stabil (tanpa token/sementara) dan bukan kamera pribadi
+          required: true
