@@ -1,7 +1,15 @@
 # 📹 Banjarbaru CCTV Streams (Unofficial)
 
 <!-- LINKS:START -->
-_Badge, tautan playlist, dan QR dibuat otomatis pada run pertama._
+[![Update](https://github.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/actions/workflows/update-streams.yml/badge.svg)](https://github.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/actions/workflows/update-streams.yml)
+[![Kamera](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FBanjarBaru-CCTV-Streams%2Fmain%2Fstatus.json&query=%24.summary.total&label=kamera&color=blue)](https://github.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/blob/main/status.json)
+[![Live](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FBanjarBaru-CCTV-Streams%2Fmain%2Fstatus.json&query=%24.summary.live&label=live&color=brightgreen)](https://github.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/blob/main/status.json)
+
+```text
+https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/streams.m3u8
+```
+
+![QR](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FBanjarBaru-CCTV-Streams%2Fmain%2Fstreams.m3u8)
 <!-- LINKS:END -->
 
 Playlist CCTV publik **Kota Banjarbaru, Kalimantan Selatan** (HLS `.m3u8` stabil), **dirawat otomatis tiap hari**. Ala IPTV-Org, tapi fokus Banjarbaru.
@@ -33,7 +41,46 @@ Salin tautan playlist pada blok di atas ke VLC / PotPlayer / app IPTV, atau scan
 
 ## 📊 Status Kamera
 <!-- STATUS:START -->
-_Tabel dibuat otomatis pada run pertama._
+> 🕒 **26 Nov 2026 19:39 WIB** · Total **34** · 🟢 **34** · 🔴 **0**
+
+| Kamera | Grup | Status | Uptime | Kualitas |
+|---|---|:--:|:--:|:--:|
+| A1 SPBU Simpang 4 | Banjarbaru | 🟢 | 100% | 1280x720 |
+| A2 Ulin Simpang 4 | Banjarbaru | 🟢 | 100% | 1280x720 |
+| A3 PTZ Simpang 4 | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Arah Dispenduk Pangeran Antasari | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Arah Gerbang ULM | Banjarbaru | 🟢 | 100% | 1280x720 |
+| Arah Museum | Banjarbaru | 🟢 | 100% | 1280x720 |
+| Arah Polresta | Banjarbaru | 🟢 | 100% | 1280x720 |
+| Arah Purnama ULM | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Brimob Arah Simpang 3 | Banjarbaru | 🟢 | 100% | 2688x1520 |
+| Bundaran Palam Trikora Taman PAMA | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Bundaran Topi Toga | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Bundaran Trikora Masjid Al-munawarah | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| C2 Banjarmasin Simpang 4 | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| C3 PTZ Simpang 4 | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| CCTV Pertigaan Trikora Arah RO Ulin | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Depan G.bhayangkara | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Depan STIMIK Arah Banjarmasin | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Halte_minggu_raya | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Jembatan Kemuning | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| JPO Dalam Utara | Banjarbaru | 🟢 | 100% | 2688x1520 |
+| KM33 Utara Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Pertigaan Ambulung | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Pertigaan Sungai Ulin Arah Mandiangin | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Polsek BJB Arah Banjarmasin | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| PTZ Brimob Arah Palam | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| PTZ Taman Mawar Arah SD | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| QMALL Arah Batas Kota | Banjarbaru | 🟢 | 100% | 3072x1728 |
+| QMALL Arah Simpang Empat | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Rebatig PTZ | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Sultan Agung Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Taman Minggu Raya | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Trikora A.yani Ujung | Banjarbaru | 🟢 | 100% | 640x480 |
+| Trikora Cempaka | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Trikora Cempaka Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 2560x1440 |
+
+_🔴 = gagal cek terakhir; dipertahankan maks 3 hari beruntun sebelum dihapus._
 <!-- STATUS:END -->
 
 ## 📦 Data & Laporan

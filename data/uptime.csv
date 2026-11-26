@@ -1,0 +1,35 @@
+date_utc,key,name,group,online,resolution,bandwidth_kbps
+2026-11-26,bjb-a1_simpang4_arah_pom,A1 SPBU Simpang 4,Banjarbaru,1,1280x720,856
+2026-11-26,bjb-a2_simpang4_arah_sungai_ulin,A2 Ulin Simpang 4,Banjarbaru,1,1280x720,627
+2026-11-26,bjb-a3_ptz_simpang4,A3 PTZ Simpang 4,Banjarbaru,1,1920x1080,3777
+2026-11-26,bjb-depan_disdukcapil,Arah Dispenduk Pangeran Antasari,Banjarbaru,1,2560x1440,2720
+2026-11-26,bjb-arah_gerbang_ulm,Arah Gerbang ULM,Banjarbaru,1,1280x720,977
+2026-11-26,bjb-arah_museum,Arah Museum,Banjarbaru,1,1280x720,424
+2026-11-26,bjb-arah_polresta,Arah Polresta,Banjarbaru,1,1280x720,1042
+2026-11-26,bjb-arah_purnama,Arah Purnama ULM,Banjarbaru,1,1920x1080,2177
+2026-11-26,bjb-brimob_arah_simpang_3,Brimob Arah Simpang 3,Banjarbaru,1,2688x1520,3290
+2026-11-26,bjb-taman_pama_arah_bundaran,Bundaran Palam Trikora Taman PAMA,Banjarbaru,1,2560x1440,2700
+2026-11-26,bjb-bundaran_stm,Bundaran Topi Toga,Banjarbaru,1,1920x1080,393
+2026-11-26,bjb-bundaran_mesjid_al_munawwarah,Bundaran Trikora Masjid Al-munawarah,Banjarbaru,1,2560x1440,2722
+2026-11-26,bjb-c2_simpang4_arah_banjarmasin,C2 Banjarmasin Simpang 4,Banjarbaru,1,1920x1080,3673
+2026-11-26,bjb-c3_ptz_simpang4_banjarbaru,C3 PTZ Simpang 4,Banjarbaru,1,1920x1080,876
+2026-11-26,bjb-pertigaan_trikora_arah_ro_ulin,CCTV Pertigaan Trikora Arah RO Ulin,Banjarbaru,1,2560x1440,2808
+2026-11-26,bjb-depan_gg_bhayangkara,Depan G.bhayangkara,Banjarbaru,1,2560x1440,3235
+2026-11-26,bjb-depan_stimik_arah_banjarmasin,Depan STIMIK Arah Banjarmasin,Banjarbaru,1,2560x1440,2795
+2026-11-26,bjb-Halte_minggu_raya,Halte_minggu_raya,Banjarbaru,1,1920x1080,920
+2026-11-26,bjb-jembatan_kemuning,Jembatan Kemuning,Banjarbaru,1,1920x1080,454
+2026-11-26,bjb-jpo_dalam_utara,JPO Dalam Utara,Banjarbaru,1,2688x1520,3072
+2026-11-26,bjb-lampu_merah_ro_ulin_arah_bjb,KM33 Utara Arah Banjarbaru,Banjarbaru,1,1920x1080,447
+2026-11-26,bjb-pertigaan_ambulung,Pertigaan Ambulung,Banjarbaru,1,2560x1440,2794
+2026-11-26,bjb-simpang_3_sungai_ulin_arah_mandiangin,Pertigaan Sungai Ulin Arah Mandiangin,Banjarbaru,1,1920x1080,2005
+2026-11-26,bjb-depan_polsek_arah_banjarmasin,Polsek BJB Arah Banjarmasin,Banjarbaru,1,2560x1440,2735
+2026-11-26,bjb-taman_mawar_ptz_arah_sd,PTZ Taman Mawar Arah SD,Banjarbaru,1,1920x1080,1807
+2026-11-26,bjb-qmall_arah_batas_kota,QMALL Arah Batas Kota,Banjarbaru,1,3072x1728,3834
+2026-11-26,bjb-qmall_arah_simpang_empat,QMALL Arah Simpang Empat,Banjarbaru,1,2560x1440,2754
+2026-11-26,bjb-rebatig,Rebatig PTZ,Banjarbaru,1,1920x1080,1020
+2026-11-26,bjb-sultan_agung_arah_banjarbaru,Sultan Agung Arah Banjarbaru,Banjarbaru,1,2560x1440,975
+2026-11-26,bjb-taman_minggu_raya,Taman Minggu Raya,Banjarbaru,1,2560x1440,2698
+2026-11-26,bjb-s3_trikora_cempaka,Trikora Cempaka,Banjarbaru,1,2560x1440,3299
+2026-11-26,bjb-s3_trikora_arah_bjb,Trikora Cempaka Arah Banjarbaru,Banjarbaru,1,2560x1440,3245
+2026-11-26,bjb-ptz_brimob,PTZ Brimob Arah Palam,Banjarbaru,1,1920x1080,490
+2026-11-26,bjb-trikora_a_yani_ujung,Trikora A.yani Ujung,Banjarbaru,1,640x480,145

@@ -1,0 +1,106 @@
+# Changelog
+## 2026-11-26
+- 🆕 **NEW**: A1 SPBU Simpang 4 — kamera baru dari sumber
+- 🆕 **NEW**: A2 Ulin Simpang 4 — kamera baru dari sumber
+- 🆕 **NEW**: A3 PTZ Simpang 4 — kamera baru dari sumber
+- 🆕 **NEW**: Arah Dispenduk Pangeran Antasari — kamera baru dari sumber
+- 🆕 **NEW**: Arah Gerbang ULM — kamera baru dari sumber
+- 🆕 **NEW**: Arah Museum — kamera baru dari sumber
+- 🆕 **NEW**: Arah Polresta — kamera baru dari sumber
+- 🆕 **NEW**: Arah Purnama ULM — kamera baru dari sumber
+- 🆕 **NEW**: B2 Cempaka Simpang 4 — kamera baru dari sumber
+- 🆕 **NEW**: Balai Kota Arah Murdjani — kamera baru dari sumber
+- 🆕 **NEW**: Brimob Arah Simpang 3 — kamera baru dari sumber
+- 🆕 **NEW**: Bundaran Amaco — kamera baru dari sumber
+- 🆕 **NEW**: Bundaran Kamaratih Gerai Pelayanan Arah Jalan Angkasa — kamera baru dari sumber
+- 🆕 **NEW**: Bundaran Palam Trikora Depan Indomaret — kamera baru dari sumber
+- 🆕 **NEW**: Bundaran Palam Trikora Taman PAMA — kamera baru dari sumber
+- 🆕 **NEW**: Bundaran Topi Toga — kamera baru dari sumber
+- 🆕 **NEW**: Bundaran Trikora Masjid Al-munawarah — kamera baru dari sumber
+- 🆕 **NEW**: C1 Polisi Simpang 4 — kamera baru dari sumber
+- 🆕 **NEW**: C2 Banjarmasin Simpang 4 — kamera baru dari sumber
+- 🆕 **NEW**: C3 PTZ Simpang 4 — kamera baru dari sumber
+- 🆕 **NEW**: CCTV Pertigaan Kebun Karet — kamera baru dari sumber
+- 🆕 **NEW**: CCTV Pertigaan Trikora Arah RO Ulin — kamera baru dari sumber
+- 🆕 **NEW**: D1 Simpang 4 BJB — kamera baru dari sumber
+- 🆕 **NEW**: D2 Martapura Simpang 4 — kamera baru dari sumber
+- 🆕 **NEW**: Depan G.bhayangkara — kamera baru dari sumber
+- 🆕 **NEW**: Depan Pasar Ulin Raya — kamera baru dari sumber
+- 🆕 **NEW**: Depan STIMIK Arah Banjarmasin — kamera baru dari sumber
+- 🆕 **NEW**: Halte Ro.ulin — kamera baru dari sumber
+- 🆕 **NEW**: Halte_minggu_raya — kamera baru dari sumber
+- 🆕 **NEW**: Halte_stimik — kamera baru dari sumber
+- 🆕 **NEW**: Halte_unlam_1 — kamera baru dari sumber
+- 🆕 **NEW**: Jembatan Al-mansyur — kamera baru dari sumber
+- 🆕 **NEW**: Jembatan Cempaka 2 — kamera baru dari sumber
+- 🆕 **NEW**: Jembatan Kembar Arah Banjarbaru — kamera baru dari sumber
+- 🆕 **NEW**: Jembatan Kembar Arah Banjarmasin — kamera baru dari sumber
+- 🆕 **NEW**: Jembatan Kemuning — kamera baru dari sumber
+- 🆕 **NEW**: Jembatan Tonhar Landasan Ulin — kamera baru dari sumber
+- 🆕 **NEW**: JPO Dalam Selatan — kamera baru dari sumber
+- 🆕 **NEW**: JPO Dalam Utara — kamera baru dari sumber
+- 🆕 **NEW**: JPO Tangga Selatan — kamera baru dari sumber
+- 🆕 **NEW**: JPO Tangga Utara — kamera baru dari sumber
+- 🆕 **NEW**: KM33 Depan Mesjid — kamera baru dari sumber
+- 🆕 **NEW**: KM33 Utara Arah Banjarbaru — kamera baru dari sumber
+- 🆕 **NEW**: KM33 Utara Arah Ro-ulin — kamera baru dari sumber
+- 🆕 **NEW**: Perempatan Taruna Praja (barjad) — kamera baru dari sumber
+- 🆕 **NEW**: Pertigaan Ambulung — kamera baru dari sumber
+- 🆕 **NEW**: Pertigaan Sungai Ulin Arah Banjarbaru — kamera baru dari sumber
+- 🆕 **NEW**: Pertigaan Sungai Ulin Arah Mandiangin — kamera baru dari sumber
+- 🆕 **NEW**: Pertigaan Trikora RO Ulin Arah Masjid Agung — kamera baru dari sumber
+- 🆕 **NEW**: Polsek BJB Arah Banjarmasin — kamera baru dari sumber
+- 🆕 **NEW**: Polsek BJB Arah Simpang Empat — kamera baru dari sumber
+- 🆕 **NEW**: PTZ RO Ulin 33 Arah Banjarmasin — kamera baru dari sumber
+- 🆕 **NEW**: PTZ Taman Mawar Arah SD — kamera baru dari sumber
+- 🆕 **NEW**: QMALL Arah Batas Kota — kamera baru dari sumber
+- 🆕 **NEW**: QMALL Arah Simpang Empat — kamera baru dari sumber
+- 🆕 **NEW**: Rebatig PTZ — kamera baru dari sumber
+- 🆕 **NEW**: STIMIK Arah Banjarbaru — kamera baru dari sumber
+- 🆕 **NEW**: Sultan Agung Arah Banjarbaru — kamera baru dari sumber
+- 🆕 **NEW**: Sultan Agung Arah Banjarmasin — kamera baru dari sumber
+- 🆕 **NEW**: Taman Mawar — kamera baru dari sumber
+- 🆕 **NEW**: Taman Minggu Raya — kamera baru dari sumber
+- 🆕 **NEW**: The Breeze Water Park — kamera baru dari sumber
+- 🆕 **NEW**: Trikora Cempaka — kamera baru dari sumber
+- 🆕 **NEW**: Trikora Cempaka Arah Banjarbaru — kamera baru dari sumber
+- 🆕 **NEW**: Jembatan Cempaka 1 — kamera baru dari sumber
+- 🆕 **NEW**: Lapangan Murdjani PTZ — kamera baru dari sumber
+- 🆕 **NEW**: PTZ Brimob Arah Palam — kamera baru dari sumber
+- 🆕 **NEW**: Brimob Arah Banjarmasin — kamera baru dari sumber
+- 🆕 **NEW**: Trikora A.yani Ujung — kamera baru dari sumber
+- ❌ **REMOVED**: B2 Cempaka Simpang 4 — baru tapi mati, dilewati
+- ❌ **REMOVED**: Balai Kota Arah Murdjani — baru tapi mati, dilewati
+- ❌ **REMOVED**: Bundaran Amaco — baru tapi mati, dilewati
+- ❌ **REMOVED**: Bundaran Kamaratih Gerai Pelayanan Arah Jalan Angkasa — baru tapi mati, dilewati
+- ❌ **REMOVED**: Bundaran Palam Trikora Depan Indomaret — baru tapi mati, dilewati
+- ❌ **REMOVED**: C1 Polisi Simpang 4 — baru tapi mati, dilewati
+- ❌ **REMOVED**: CCTV Pertigaan Kebun Karet — baru tapi mati, dilewati
+- ❌ **REMOVED**: D1 Simpang 4 BJB — baru tapi mati, dilewati
+- ❌ **REMOVED**: D2 Martapura Simpang 4 — baru tapi mati, dilewati
+- ❌ **REMOVED**: Depan Pasar Ulin Raya — baru tapi mati, dilewati
+- ❌ **REMOVED**: Halte Ro.ulin — baru tapi mati, dilewati
+- ❌ **REMOVED**: Halte_stimik — baru tapi mati, dilewati
+- ❌ **REMOVED**: Halte_unlam_1 — baru tapi mati, dilewati
+- ❌ **REMOVED**: Jembatan Al-mansyur — baru tapi mati, dilewati
+- ❌ **REMOVED**: Jembatan Cempaka 2 — baru tapi mati, dilewati
+- ❌ **REMOVED**: Jembatan Kembar Arah Banjarbaru — baru tapi mati, dilewati
+- ❌ **REMOVED**: Jembatan Kembar Arah Banjarmasin — baru tapi mati, dilewati
+- ❌ **REMOVED**: Jembatan Tonhar Landasan Ulin — baru tapi mati, dilewati
+- ❌ **REMOVED**: JPO Dalam Selatan — baru tapi mati, dilewati
+- ❌ **REMOVED**: JPO Tangga Selatan — baru tapi mati, dilewati
+- ❌ **REMOVED**: JPO Tangga Utara — baru tapi mati, dilewati
+- ❌ **REMOVED**: KM33 Depan Mesjid — baru tapi mati, dilewati
+- ❌ **REMOVED**: KM33 Utara Arah Ro-ulin — baru tapi mati, dilewati
+- ❌ **REMOVED**: Perempatan Taruna Praja (barjad) — baru tapi mati, dilewati
+- ❌ **REMOVED**: Pertigaan Sungai Ulin Arah Banjarbaru — baru tapi mati, dilewati
+- ❌ **REMOVED**: Pertigaan Trikora RO Ulin Arah Masjid Agung — baru tapi mati, dilewati
+- ❌ **REMOVED**: Polsek BJB Arah Simpang Empat — baru tapi mati, dilewati
+- ❌ **REMOVED**: PTZ RO Ulin 33 Arah Banjarmasin — baru tapi mati, dilewati
+- ❌ **REMOVED**: STIMIK Arah Banjarbaru — baru tapi mati, dilewati
+- ❌ **REMOVED**: Sultan Agung Arah Banjarmasin — baru tapi mati, dilewati
+- ❌ **REMOVED**: Taman Mawar — baru tapi mati, dilewati
+- ❌ **REMOVED**: The Breeze Water Park — baru tapi mati, dilewati
+- ❌ **REMOVED**: Jembatan Cempaka 1 — baru tapi mati, dilewati
+- ❌ **REMOVED**: Lapangan Murdjani PTZ — baru tapi mati, dilewati
+- ❌ **REMOVED**: Brimob Arah Banjarmasin — baru tapi mati, dilewati
