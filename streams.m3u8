@@ -71,6 +71,18 @@ https://stream-dev.banjarbarukota.go.id/depan_stimik_arah_banjarmasin/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
 https://stream-dev.banjarbarukota.go.id/Halte_minggu_raya/index.m3u8
+#EXTINF:-1 tvg-id="bjb-jembatan_al_mansyur" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-jembatan_al_mansyur.jpg" group-title="Banjarbaru",Jembatan Al-mansyur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
+https://stream-dev.banjarbarukota.go.id/jembatan_al_mansyur/index.m3u8
+#EXTINF:-1 tvg-id="bjb-jembatan_cempaka_2" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-jembatan_cempaka_2.jpg" group-title="Banjarbaru",Jembatan Cempaka 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
+https://stream-dev.banjarbarukota.go.id/jembatan_cempaka_2/index.m3u8
+#EXTINF:-1 tvg-id="bjb-jembatan_kembar_arah_banjarbaru" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-jembatan_kembar_arah_banjarbaru.jpg" group-title="Banjarbaru",Jembatan Kembar Arah Banjarbaru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
+https://stream-dev.banjarbarukota.go.id/jembatan_kembar_arah_banjarbaru/index.m3u8
 #EXTINF:-1 tvg-id="bjb-jembatan_kemuning" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-jembatan_kemuning.jpg" group-title="Banjarbaru",Jembatan Kemuning
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
@@ -83,6 +95,10 @@ https://stream-dev.banjarbarukota.go.id/jpo_dalam_utara/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
 https://stream-dev.banjarbarukota.go.id/lampu_merah_ro_ulin_arah_bjb/index.m3u8
+#EXTINF:-1 tvg-id="bjb-ptz_murjani" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-ptz_murjani.jpg" group-title="Banjarbaru",Lapangan Murdjani PTZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
+https://stream-dev.banjarbarukota.go.id/ptz_murjani/index.m3u8
 #EXTINF:-1 tvg-id="bjb-pertigaan_ambulung" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-pertigaan_ambulung.jpg" group-title="Banjarbaru",Pertigaan Ambulung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
@@ -91,6 +107,10 @@ https://stream-dev.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
 https://stream-dev.banjarbarukota.go.id/simpang_3_sungai_ulin_arah_mandiangin/index.m3u8
+#EXTINF:-1 tvg-id="bjb-pertigaan_trikora_arah_mesjid_agung" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-pertigaan_trikora_arah_mesjid_agung.jpg" group-title="Banjarbaru",Pertigaan Trikora RO Ulin Arah Masjid Agung
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
+https://stream-dev.banjarbarukota.go.id/pertigaan_trikora_arah_mesjid_agung/index.m3u8
 #EXTINF:-1 tvg-id="bjb-depan_polsek_arah_banjarmasin" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-depan_polsek_arah_banjarmasin.jpg" group-title="Banjarbaru",Polsek BJB Arah Banjarmasin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
@@ -99,6 +119,10 @@ https://stream-dev.banjarbarukota.go.id/depan_polsek_arah_banjarmasin/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
 https://stream-dev.banjarbarukota.go.id/ptz_brimob/index.m3u8
+#EXTINF:-1 tvg-id="bjb-ptz_ro_ulin" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-ptz_ro_ulin.jpg" group-title="Banjarbaru",PTZ RO Ulin 33 Arah Banjarmasin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
+https://stream-dev.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8
 #EXTINF:-1 tvg-id="bjb-taman_mawar_ptz_arah_sd" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-taman_mawar_ptz_arah_sd.jpg" group-title="Banjarbaru",PTZ Taman Mawar Arah SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
@@ -123,6 +147,10 @@ https://stream-dev.banjarbarukota.go.id/sultan_agung_arah_banjarbaru/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
 https://stream-dev.banjarbarukota.go.id/taman_minggu_raya/index.m3u8
+#EXTINF:-1 tvg-id="bjb-breeze" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-breeze.jpg" group-title="Banjarbaru",The Breeze Water Park
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
+https://stream-dev.banjarbarukota.go.id/breeze/index.m3u8
 #EXTINF:-1 tvg-id="bjb-trikora_a_yani_ujung" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/thumbs/bjb-trikora_a_yani_ujung.jpg" group-title="Banjarbaru",Trikora A.yani Ujung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/

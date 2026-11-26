@@ -41,42 +41,49 @@ Salin tautan playlist pada blok di atas ke VLC / PotPlayer / app IPTV, atau scan
 
 ## 📊 Status Kamera
 <!-- STATUS:START -->
-> 🕒 **26 Nov 2026 19:39 WIB** · Total **34** · 🟢 **34** · 🔴 **0**
+> 🕒 **26 Nov 2026 19:54 WIB** · Total **41** · 🟢 **33** · 🔴 **8**
 
 | Kamera | Grup | Status | Uptime | Kualitas |
 |---|---|:--:|:--:|:--:|
-| A1 SPBU Simpang 4 | Banjarbaru | 🟢 | 100% | 1280x720 |
+| A1 SPBU Simpang 4 | Banjarbaru | 🔴 | 50% | 1280x720 |
 | A2 Ulin Simpang 4 | Banjarbaru | 🟢 | 100% | 1280x720 |
-| A3 PTZ Simpang 4 | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| A3 PTZ Simpang 4 | Banjarbaru | 🔴 | 50% | 1920x1080 |
 | Arah Dispenduk Pangeran Antasari | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Arah Gerbang ULM | Banjarbaru | 🟢 | 100% | 1280x720 |
 | Arah Museum | Banjarbaru | 🟢 | 100% | 1280x720 |
 | Arah Polresta | Banjarbaru | 🟢 | 100% | 1280x720 |
 | Arah Purnama ULM | Banjarbaru | 🟢 | 100% | 1920x1080 |
 | Brimob Arah Simpang 3 | Banjarbaru | 🟢 | 100% | 2688x1520 |
-| Bundaran Palam Trikora Taman PAMA | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Bundaran Palam Trikora Taman PAMA | Banjarbaru | 🔴 | 50% | 2560x1440 |
 | Bundaran Topi Toga | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| Bundaran Trikora Masjid Al-munawarah | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Bundaran Trikora Masjid Al-munawarah | Banjarbaru | 🔴 | 50% | 2560x1440 |
 | C2 Banjarmasin Simpang 4 | Banjarbaru | 🟢 | 100% | 1920x1080 |
 | C3 PTZ Simpang 4 | Banjarbaru | 🟢 | 100% | 1920x1080 |
 | CCTV Pertigaan Trikora Arah RO Ulin | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Depan G.bhayangkara | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Depan STIMIK Arah Banjarmasin | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Halte_minggu_raya | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Jembatan Al-mansyur | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Jembatan Cempaka 2 | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Jembatan Kembar Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 2688x1520 |
 | Jembatan Kemuning | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| JPO Dalam Utara | Banjarbaru | 🟢 | 100% | 2688x1520 |
+| JPO Dalam Utara | Banjarbaru | 🔴 | 50% | 2688x1520 |
 | KM33 Utara Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Lapangan Murdjani PTZ | Banjarbaru | 🟢 | 100% | 1920x1080 |
 | Pertigaan Ambulung | Banjarbaru | 🟢 | 100% | 2560x1440 |
-| Pertigaan Sungai Ulin Arah Mandiangin | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| Pertigaan Sungai Ulin Arah Mandiangin | Banjarbaru | 🔴 | 50% | 1920x1080 |
+| Pertigaan Trikora RO Ulin Arah Masjid Agung | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Polsek BJB Arah Banjarmasin | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | PTZ Brimob Arah Palam | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| PTZ Taman Mawar Arah SD | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| PTZ RO Ulin 33 Arah Banjarmasin | Banjarbaru | 🟢 | 100% | 1920x1080 |
+| PTZ Taman Mawar Arah SD | Banjarbaru | 🔴 | 50% | 1920x1080 |
 | QMALL Arah Batas Kota | Banjarbaru | 🟢 | 100% | 3072x1728 |
 | QMALL Arah Simpang Empat | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Rebatig PTZ | Banjarbaru | 🟢 | 100% | 1920x1080 |
 | Sultan Agung Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Taman Minggu Raya | Banjarbaru | 🟢 | 100% | 2560x1440 |
-| Trikora A.yani Ujung | Banjarbaru | 🟢 | 100% | 640x480 |
+| The Breeze Water Park | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Trikora A.yani Ujung | Banjarbaru | 🔴 | 50% | 640x480 |
 | Trikora Cempaka | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Trikora Cempaka Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 2560x1440 |
 

@@ -1,240 +1,289 @@
 {
   "bjb-a1_simpang4_arah_pom": {
-    "fail": 0,
+    "fail": 1,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/a1_simpang4_arah_pom/index.m3u8",
     "last_ok": "2026-11-26T12:39:50Z"
   },
   "bjb-a2_simpang4_arah_sungai_ulin": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-a3_ptz_simpang4": {
-    "fail": 0,
+    "fail": 1,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8",
     "last_ok": "2026-11-26T12:39:50Z"
   },
   "bjb-depan_disdukcapil": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/depan_disdukcapil/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-arah_gerbang_ulm": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/arah_gerbang_ulm/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-arah_museum": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/arah_museum/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-arah_polresta": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/arah_polresta/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-arah_purnama": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/arah_purnama/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-brimob_arah_simpang_3": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/brimob_arah_simpang_3/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-taman_pama_arah_bundaran": {
-    "fail": 0,
+    "fail": 1,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8",
     "last_ok": "2026-11-26T12:39:50Z"
   },
   "bjb-bundaran_stm": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/bundaran_stm/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-bundaran_mesjid_al_munawwarah": {
-    "fail": 0,
+    "fail": 1,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8",
     "last_ok": "2026-11-26T12:39:50Z"
   },
   "bjb-c2_simpang4_arah_banjarmasin": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-c3_ptz_simpang4_banjarbaru": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-pertigaan_trikora_arah_ro_ulin": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/pertigaan_trikora_arah_ro_ulin/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-depan_gg_bhayangkara": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/depan_gg_bhayangkara/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-depan_stimik_arah_banjarmasin": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/depan_stimik_arah_banjarmasin/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-Halte_minggu_raya": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/Halte_minggu_raya/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-jembatan_kemuning": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/jembatan_kemuning/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-jpo_dalam_utara": {
-    "fail": 0,
+    "fail": 1,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/jpo_dalam_utara/index.m3u8",
     "last_ok": "2026-11-26T12:39:50Z"
   },
   "bjb-lampu_merah_ro_ulin_arah_bjb": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/lampu_merah_ro_ulin_arah_bjb/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-pertigaan_ambulung": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-simpang_3_sungai_ulin_arah_mandiangin": {
-    "fail": 0,
+    "fail": 1,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/simpang_3_sungai_ulin_arah_mandiangin/index.m3u8",
     "last_ok": "2026-11-26T12:39:50Z"
   },
   "bjb-depan_polsek_arah_banjarmasin": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/depan_polsek_arah_banjarmasin/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-taman_mawar_ptz_arah_sd": {
-    "fail": 0,
+    "fail": 1,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/taman_mawar_ptz_arah_sd/index.m3u8",
     "last_ok": "2026-11-26T12:39:50Z"
   },
   "bjb-qmall_arah_batas_kota": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/qmall_arah_batas_kota/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-qmall_arah_simpang_empat": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-rebatig": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/rebatig/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-sultan_agung_arah_banjarbaru": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/sultan_agung_arah_banjarbaru/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-taman_minggu_raya": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/taman_minggu_raya/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-s3_trikora_cempaka": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/s3_trikora_cempaka/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-s3_trikora_arah_bjb": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/s3_trikora_arah_bjb/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-ptz_brimob": {
     "fail": 0,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/ptz_brimob/index.m3u8",
-    "last_ok": "2026-11-26T12:39:50Z"
+    "last_ok": "2026-11-26T12:54:22Z"
   },
   "bjb-trikora_a_yani_ujung": {
-    "fail": 0,
+    "fail": 1,
     "missing": 0,
-    "last_check": "2026-11-26T12:39:50Z",
+    "last_check": "2026-11-26T12:54:22Z",
     "url": "https://stream-dev.banjarbarukota.go.id/trikora_a_yani_ujung/index.m3u8",
     "last_ok": "2026-11-26T12:39:50Z"
+  },
+  "bjb-jembatan_al_mansyur": {
+    "fail": 0,
+    "missing": 0,
+    "last_check": "2026-11-26T12:54:22Z",
+    "url": "https://stream-dev.banjarbarukota.go.id/jembatan_al_mansyur/index.m3u8",
+    "last_ok": "2026-11-26T12:54:22Z"
+  },
+  "bjb-jembatan_cempaka_2": {
+    "fail": 0,
+    "missing": 0,
+    "last_check": "2026-11-26T12:54:22Z",
+    "url": "https://stream-dev.banjarbarukota.go.id/jembatan_cempaka_2/index.m3u8",
+    "last_ok": "2026-11-26T12:54:22Z"
+  },
+  "bjb-jembatan_kembar_arah_banjarbaru": {
+    "fail": 0,
+    "missing": 0,
+    "last_check": "2026-11-26T12:54:22Z",
+    "url": "https://stream-dev.banjarbarukota.go.id/jembatan_kembar_arah_banjarbaru/index.m3u8",
+    "last_ok": "2026-11-26T12:54:22Z"
+  },
+  "bjb-pertigaan_trikora_arah_mesjid_agung": {
+    "fail": 0,
+    "missing": 0,
+    "last_check": "2026-11-26T12:54:22Z",
+    "url": "https://stream-dev.banjarbarukota.go.id/pertigaan_trikora_arah_mesjid_agung/index.m3u8",
+    "last_ok": "2026-11-26T12:54:22Z"
+  },
+  "bjb-ptz_ro_ulin": {
+    "fail": 0,
+    "missing": 0,
+    "last_check": "2026-11-26T12:54:22Z",
+    "url": "https://stream-dev.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8",
+    "last_ok": "2026-11-26T12:54:22Z"
+  },
+  "bjb-breeze": {
+    "fail": 0,
+    "missing": 0,
+    "last_check": "2026-11-26T12:54:22Z",
+    "url": "https://stream-dev.banjarbarukota.go.id/breeze/index.m3u8",
+    "last_ok": "2026-11-26T12:54:22Z"
+  },
+  "bjb-ptz_murjani": {
+    "fail": 0,
+    "missing": 0,
+    "last_check": "2026-11-26T12:54:22Z",
+    "url": "https://stream-dev.banjarbarukota.go.id/ptz_murjani/index.m3u8",
+    "last_ok": "2026-11-26T12:54:22Z"
   }
 }

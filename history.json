@@ -1,261 +1,311 @@
 {
   "bjb-a1_simpang4_arah_pom": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-a2_simpang4_arah_sungai_ulin": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-a3_ptz_simpang4": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-depan_disdukcapil": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-arah_gerbang_ulm": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-arah_museum": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-arah_polresta": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-arah_purnama": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-brimob_arah_simpang_3": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-taman_pama_arah_bundaran": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-bundaran_stm": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-bundaran_mesjid_al_munawwarah": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-c2_simpang4_arah_banjarmasin": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-c3_ptz_simpang4_banjarbaru": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-pertigaan_trikora_arah_ro_ulin": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-depan_gg_bhayangkara": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-depan_stimik_arah_banjarmasin": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-Halte_minggu_raya": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-jembatan_kemuning": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-jpo_dalam_utara": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-lampu_merah_ro_ulin_arah_bjb": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-pertigaan_ambulung": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-simpang_3_sungai_ulin_arah_mandiangin": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-depan_polsek_arah_banjarmasin": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-taman_mawar_ptz_arah_sd": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-qmall_arah_batas_kota": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-qmall_arah_simpang_empat": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-rebatig": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-sultan_agung_arah_banjarbaru": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-taman_minggu_raya": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-s3_trikora_cempaka": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-s3_trikora_arah_bjb": {
-    "total": 1,
-    "ok": 1,
+    "total": 2,
+    "ok": 2,
     "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
   "bjb-ptz_brimob": {
+    "total": 2,
+    "ok": 2,
+    "recent": [
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-trikora_a_yani_ujung": {
+    "total": 2,
+    "ok": 1,
+    "recent": [
+      true,
+      false
+    ],
+    "uptime_pct": 50
+  },
+  "bjb-jembatan_al_mansyur": {
     "total": 1,
     "ok": 1,
     "recent": [
@@ -263,7 +313,47 @@
     ],
     "uptime_pct": 100
   },
-  "bjb-trikora_a_yani_ujung": {
+  "bjb-jembatan_cempaka_2": {
+    "total": 1,
+    "ok": 1,
+    "recent": [
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-jembatan_kembar_arah_banjarbaru": {
+    "total": 1,
+    "ok": 1,
+    "recent": [
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-pertigaan_trikora_arah_mesjid_agung": {
+    "total": 1,
+    "ok": 1,
+    "recent": [
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-ptz_ro_ulin": {
+    "total": 1,
+    "ok": 1,
+    "recent": [
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-breeze": {
+    "total": 1,
+    "ok": 1,
+    "recent": [
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-ptz_murjani": {
     "total": 1,
     "ok": 1,
     "recent": [
