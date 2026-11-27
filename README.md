@@ -1,15 +1,15 @@
 # 📹 Kalsel CCTV Streams (Unofficial)
 
 <!-- LINKS:START -->
-[![Update](https://github.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/actions/workflows/update-streams.yml/badge.svg)](https://github.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/actions/workflows/update-streams.yml)
-[![Kamera](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FBanjarBaru-CCTV-Streams%2Fmain%2Fstatus.json&query=%24.summary.total&label=kamera&color=blue)](https://github.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/blob/main/status.json)
-[![Live](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FBanjarBaru-CCTV-Streams%2Fmain%2Fstatus.json&query=%24.summary.live&label=live&color=brightgreen)](https://github.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/blob/main/status.json)
+[![Update](https://github.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/actions/workflows/update-streams.yml/badge.svg)](https://github.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/actions/workflows/update-streams.yml)
+[![Kamera](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FKalsel-CCTV-Streams%2Fmain%2Fstatus.json&query=%24.summary.total&label=kamera&color=blue)](https://github.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/blob/main/status.json)
+[![Live](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FKalsel-CCTV-Streams%2Fmain%2Fstatus.json&query=%24.summary.live&label=live&color=brightgreen)](https://github.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/blob/main/status.json)
 
 ```text
-https://raw.githubusercontent.com/akuncadangans1tu-beep/BanjarBaru-CCTV-Streams/main/streams.m3u8
+https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/streams.m3u8
 ```
 
-![QR](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FBanjarBaru-CCTV-Streams%2Fmain%2Fstreams.m3u8)
+![QR](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fraw.githubusercontent.com%2Fakuncadangans1tu-beep%2FKalsel-CCTV-Streams%2Fmain%2Fstreams.m3u8)
 <!-- LINKS:END -->
 
 Playlist CCTV publik **Kalimantan Selatan** — Kota Banjarbaru & Kota Banjarmasin (HLS `.m3u8` stabil), **dirawat otomatis tiap hari**. Ala IPTV-Org, fokus Kalsel.
@@ -42,42 +42,45 @@ Salin tautan playlist pada blok di atas ke VLC / PotPlayer / app IPTV, atau scan
 
 ## 📊 Status Kamera
 <!-- STATUS:START -->
-> 🕒 **26 Nov 2026 20:16 WIB** · Total **61** · 🟢 **53** · 🔴 **8**
+> 🕒 **27 Nov 2026 09:41 WIB** · Total **64** · 🟢 **52** · 🔴 **12**
 
 | Kamera | Grup | Status | Uptime | Kualitas |
 |---|---|:--:|:--:|:--:|
-| A1 SPBU Simpang 4 | Banjarbaru | 🟢 | 67% | 1280x720 |
+| A1 SPBU Simpang 4 | Banjarbaru | 🟢 | 75% | 1280x720 |
 | A2 Ulin Simpang 4 | Banjarbaru | 🟢 | 100% | 1280x720 |
-| A3 PTZ Simpang 4 | Banjarbaru | 🟢 | 67% | 1920x1080 |
+| A3 PTZ Simpang 4 | Banjarbaru | 🟢 | 75% | 1920x1080 |
 | Arah Dispenduk Pangeran Antasari | Banjarbaru | 🟢 | 100% | 2560x1440 |
-| Arah Gerbang ULM | Banjarbaru | 🔴 | 67% | 1280x720 |
-| Arah Museum | Banjarbaru | 🔴 | 67% | 1280x720 |
+| Arah Gerbang ULM | Banjarbaru | 🔴 | 50% | 1280x720 |
+| Arah Museum | Banjarbaru | 🟢 | 75% | 1280x720 |
 | Arah Polresta | Banjarbaru | 🟢 | 100% | 1280x720 |
 | Arah Purnama ULM | Banjarbaru | 🟢 | 100% | 1920x1080 |
 | Brimob Arah Simpang 3 | Banjarbaru | 🟢 | 100% | 2688x1520 |
-| Bundaran Palam Trikora Taman PAMA | Banjarbaru | 🟢 | 67% | 2560x1440 |
-| Bundaran Topi Toga | Banjarbaru | 🔴 | 67% | 1920x1080 |
-| Bundaran Trikora Masjid Al-munawarah | Banjarbaru | 🟢 | 67% | 2560x1440 |
-| C2 Banjarmasin Simpang 4 | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| C3 PTZ Simpang 4 | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| CCTV Pertigaan Trikora Arah RO Ulin | Banjarbaru | 🟢 | 100% | 2560x1440 |
-| Depan G.bhayangkara | Banjarbaru | 🔴 | 67% | 2560x1440 |
-| Depan STIMIK Arah Banjarmasin | Banjarbaru | 🔴 | 67% | 2560x1440 |
-| Halte_minggu_raya | Banjarbaru | 🔴 | 67% | 1920x1080 |
+| Bundaran Palam Trikora Taman PAMA | Banjarbaru | 🟢 | 75% | 2560x1440 |
+| Bundaran Topi Toga | Banjarbaru | 🟢 | 75% | 1920x1080 |
+| Bundaran Trikora Masjid Al-munawarah | Banjarbaru | 🟢 | 75% | 2560x1440 |
+| C2 Banjarmasin Simpang 4 | Banjarbaru | 🔴 | 75% | 1920x1080 |
+| C3 PTZ Simpang 4 | Banjarbaru | 🔴 | 75% | 1920x1080 |
+| CCTV Pertigaan Trikora Arah RO Ulin | Banjarbaru | 🔴 | 75% | 2560x1440 |
+| Depan G.bhayangkara | Banjarbaru | 🟢 | 75% | 2560x1440 |
+| Depan STIMIK Arah Banjarmasin | Banjarbaru | 🔴 | 50% | 2560x1440 |
+| Halte_minggu_raya | Banjarbaru | 🔴 | 50% | 1920x1080 |
 | Jembatan Al-mansyur | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| Jembatan Cempaka 2 | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Jembatan Cempaka 1 | Banjarbaru | 🟢 | 100% | 640x480 |
+| Jembatan Cempaka 2 | Banjarbaru | 🔴 | 67% | 2560x1440 |
 | Jembatan Kembar Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 2688x1520 |
-| Jembatan Kemuning | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| JPO Dalam Utara | Banjarbaru | 🟢 | 67% | 2688x1520 |
+| Jembatan Kembar Arah Banjarmasin | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Jembatan Kemuning | Banjarbaru | 🔴 | 75% | 1920x1080 |
+| JPO Dalam Utara | Banjarbaru | 🟢 | 75% | 2688x1520 |
+| JPO Tangga Selatan | Banjarbaru | 🟢 | 100% | 2688x1520 |
+| JPO Tangga Utara | Banjarbaru | 🟢 | 100% | 2688x1520 |
 | KM33 Utara Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 1920x1080 |
 | Lapangan Murdjani PTZ | Banjarbaru | 🟢 | 100% | 1920x1080 |
 | Pertigaan Ambulung | Banjarbaru | 🟢 | 100% | 2560x1440 |
-| Pertigaan Sungai Ulin Arah Mandiangin | Banjarbaru | 🔴 | 33% | 1920x1080 |
 | Pertigaan Trikora RO Ulin Arah Masjid Agung | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Polsek BJB Arah Banjarmasin | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | PTZ Brimob Arah Palam | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| PTZ RO Ulin 33 Arah Banjarmasin | Banjarbaru | 🟢 | 100% | 1920x1080 |
-| PTZ Taman Mawar Arah SD | Banjarbaru | 🟢 | 67% | 1920x1080 |
+| PTZ RO Ulin 33 Arah Banjarmasin | Banjarbaru | 🔴 | 67% | 1920x1080 |
+| PTZ Taman Mawar Arah SD | Banjarbaru | 🔴 | 50% | 1920x1080 |
 | QMALL Arah Batas Kota | Banjarbaru | 🟢 | 100% | 3072x1728 |
 | QMALL Arah Simpang Empat | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Rebatig PTZ | Banjarbaru | 🟢 | 100% | 1920x1080 |
@@ -85,11 +88,10 @@ Salin tautan playlist pada blok di atas ke VLC / PotPlayer / app IPTV, atau scan
 | Sultan Agung Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Taman Minggu Raya | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | The Breeze Water Park | Banjarbaru | 🟢 | 100% | 2560x1440 |
-| Trikora A.yani Ujung | Banjarbaru | 🔴 | 33% | 640x480 |
-| Trikora Cempaka | Banjarbaru | 🟢 | 100% | 2560x1440 |
+| Trikora Cempaka | Banjarbaru | 🔴 | 75% | 2560x1440 |
 | Trikora Cempaka Arah Banjarbaru | Banjarbaru | 🟢 | 100% | 2560x1440 |
 | Bundaran Pintu Masuk Sabilal | Banjarmasin | 🟢 | 100% | 1920x1080 |
-| Halaman Jembatan Pulau Bromo | Banjarmasin | 🟢 | 100% | 1280x720 |
+| Halaman Jembatan Pulau Bromo | Banjarmasin | 🔴 | 50% | — |
 | Jembatan Patih Sisi Kanan | Banjarmasin | 🟢 | 100% | 1920x1080 |
 | Jembatan Patih Turunan kanan | Banjarmasin | 🟢 | 100% | 1280x720 |
 | Jembatan Pulau Bromo Turunan | Banjarmasin | 🟢 | 100% | 1280x720 |
@@ -99,6 +101,7 @@ Salin tautan playlist pada blok di atas ke VLC / PotPlayer / app IPTV, atau scan
 | Siring 0km | Banjarmasin | 🟢 | 100% | 1920x1080 |
 | Siring 0km 2 | Banjarmasin | 🟢 | 100% | 1920x1080 |
 | Siring 0km Panggung | Banjarmasin | 🟢 | 100% | 1920x1080 |
+| Siring Pos Dermaga | Banjarmasin | 🟢 | 100% | 1280x720 |
 | Taman Jahri Saleh Pintu Masuk | Banjarmasin | 🟢 | 100% | 1920x1080 |
 | Taman Jahri Saleh View 1 | Banjarmasin | 🟢 | 100% | 1920x1080 |
 | Taman Jahri Saleh View 2 | Banjarmasin | 🟢 | 100% | 1920x1080 |

@@ -1,5 +1,15 @@
 [
   {
+    "key": "bjb-simpang_3_sungai_ulin_arah_mandiangin",
+    "name": "Pertigaan Sungai Ulin Arah Mandiangin",
+    "reason": "gagal 3x beruntun (HTTP 404)"
+  },
+  {
+    "key": "bjb-trikora_a_yani_ujung",
+    "name": "Trikora A.yani Ujung",
+    "reason": "gagal 3x beruntun (HTTP 404)"
+  },
+  {
     "key": "bjb-b2_arah_cempaka",
     "name": "B2 Cempaka Simpang 4",
     "reason": "baru tapi mati, dilewati"
@@ -65,11 +75,6 @@
     "reason": "baru tapi mati, dilewati"
   },
   {
-    "key": "bjb-jembatan_kembar_arah_banjarmasin",
-    "name": "Jembatan Kembar Arah Banjarmasin",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
     "key": "bjb-jembatan_tonhar",
     "name": "Jembatan Tonhar Landasan Ulin",
     "reason": "baru tapi mati, dilewati"
@@ -77,16 +82,6 @@
   {
     "key": "bjb-jpo_dalam_selatan",
     "name": "JPO Dalam Selatan",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-jpo_tangga_selatan",
-    "name": "JPO Tangga Selatan",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-jpo_tangga_utara",
-    "name": "JPO Tangga Utara",
     "reason": "baru tapi mati, dilewati"
   },
   {
@@ -125,11 +120,6 @@
     "reason": "baru tapi mati, dilewati"
   },
   {
-    "key": "bjb-jembatan_cempaka_1",
-    "name": "Jembatan Cempaka 1",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
     "key": "bjb-marka_brimob_arah_banjarmasin",
     "name": "Brimob Arah Banjarmasin",
     "reason": "baru tapi mati, dilewati"
@@ -157,11 +147,6 @@
   {
     "key": "bjm-c625b143-3fed-4262-93ad-18fa4e64c29e",
     "name": "Siring Dermaga",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2",
-    "name": "Siring Pos Dermaga",
     "reason": "baru tapi mati, dilewati"
   },
   {
