@@ -199,3 +199,67 @@ date_utc,key,name,group,online,resolution,bandwidth_kbps
 2026-11-27,bjb-jpo_tangga_utara,JPO Tangga Utara,Banjarbaru,1,2688x1520,3052
 2026-11-27,bjb-jembatan_cempaka_1,Jembatan Cempaka 1,Banjarbaru,1,640x480,208
 2026-11-27,bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2,Siring Pos Dermaga,Banjarmasin,1,1280x720,570
+2026-11-28,bjb-a1_simpang4_arah_pom,A1 SPBU Simpang 4,Banjarbaru,1,1280x720,980
+2026-11-28,bjb-a2_simpang4_arah_sungai_ulin,A2 Ulin Simpang 4,Banjarbaru,0,1280x720,678
+2026-11-28,bjb-a3_ptz_simpang4,A3 PTZ Simpang 4,Banjarbaru,0,1920x1080,3855
+2026-11-28,bjb-depan_disdukcapil,Arah Dispenduk Pangeran Antasari,Banjarbaru,1,2560x1440,3138
+2026-11-28,bjb-arah_gerbang_ulm,Arah Gerbang ULM,Banjarbaru,1,1280x720,1426
+2026-11-28,bjb-arah_museum,Arah Museum,Banjarbaru,0,1280x720,437
+2026-11-28,bjb-arah_polresta,Arah Polresta,Banjarbaru,1,1280x720,830
+2026-11-28,bjb-arah_purnama,Arah Purnama ULM,Banjarbaru,1,1920x1080,1999
+2026-11-28,bjb-brimob_arah_simpang_3,Brimob Arah Simpang 3,Banjarbaru,0,2688x1520,3248
+2026-11-28,bjb-taman_pama_arah_bundaran,Bundaran Palam Trikora Taman PAMA,Banjarbaru,0,2560x1440,2905
+2026-11-28,bjb-bundaran_stm,Bundaran Topi Toga,Banjarbaru,1,1920x1080,740
+2026-11-28,bjb-bundaran_mesjid_al_munawwarah,Bundaran Trikora Masjid Al-munawarah,Banjarbaru,0,2560x1440,2980
+2026-11-28,bjb-c2_simpang4_arah_banjarmasin,C2 Banjarmasin Simpang 4,Banjarbaru,1,1920x1080,3656
+2026-11-28,bjb-c3_ptz_simpang4_banjarbaru,C3 PTZ Simpang 4,Banjarbaru,1,1920x1080,867
+2026-11-28,bjb-pertigaan_trikora_arah_ro_ulin,CCTV Pertigaan Trikora Arah RO Ulin,Banjarbaru,1,2560x1440,3142
+2026-11-28,bjb-depan_gg_bhayangkara,Depan G.bhayangkara,Banjarbaru,1,2560x1440,3204
+2026-11-28,bjb-depan_stimik_arah_banjarmasin,Depan STIMIK Arah Banjarmasin,Banjarbaru,1,2560x1440,2748
+2026-11-28,bjb-jembatan_al_mansyur,Jembatan Al-mansyur,Banjarbaru,1,1920x1080,2711
+2026-11-28,bjb-jembatan_cempaka_1,Jembatan Cempaka 1,Banjarbaru,0,640x480,215
+2026-11-28,bjb-jembatan_cempaka_2,Jembatan Cempaka 2,Banjarbaru,1,2560x1440,5696
+2026-11-28,bjb-jembatan_kembar_arah_banjarbaru,Jembatan Kembar Arah Banjarbaru,Banjarbaru,1,2688x1520,2965
+2026-11-28,bjb-jembatan_kembar_arah_banjarmasin,Jembatan Kembar Arah Banjarmasin,Banjarbaru,0,2560x1440,1212
+2026-11-28,bjb-jembatan_kemuning,Jembatan Kemuning,Banjarbaru,0,1920x1080,470
+2026-11-28,bjb-jpo_dalam_utara,JPO Dalam Utara,Banjarbaru,0,2688x1520,2687
+2026-11-28,bjb-jpo_tangga_selatan,JPO Tangga Selatan,Banjarbaru,0,2688x1520,4140
+2026-11-28,bjb-jpo_tangga_utara,JPO Tangga Utara,Banjarbaru,0,2688x1520,2838
+2026-11-28,bjb-lampu_merah_ro_ulin_arah_bjb,KM33 Utara Arah Banjarbaru,Banjarbaru,0,1920x1080,431
+2026-11-28,bjb-ptz_murjani,Lapangan Murdjani PTZ,Banjarbaru,1,1920x1080,3540
+2026-11-28,bjb-pertigaan_ambulung,Pertigaan Ambulung,Banjarbaru,1,2560x1440,4089
+2026-11-28,bjb-pertigaan_trikora_arah_mesjid_agung,Pertigaan Trikora RO Ulin Arah Masjid Agung,Banjarbaru,1,2560x1440,2766
+2026-11-28,bjb-depan_polsek_arah_banjarmasin,Polsek BJB Arah Banjarmasin,Banjarbaru,0,2560x1440,2922
+2026-11-28,bjb-ptz_brimob,PTZ Brimob Arah Palam,Banjarbaru,1,1920x1080,687
+2026-11-28,bjb-ptz_ro_ulin,PTZ RO Ulin 33 Arah Banjarmasin,Banjarbaru,0,1920x1080,3974
+2026-11-28,bjb-taman_mawar_ptz_arah_sd,PTZ Taman Mawar Arah SD,Banjarbaru,0,1920x1080,1973
+2026-11-28,bjb-qmall_arah_batas_kota,QMALL Arah Batas Kota,Banjarbaru,1,3072x1728,3749
+2026-11-28,bjb-qmall_arah_simpang_empat,QMALL Arah Simpang Empat,Banjarbaru,1,2560x1440,2963
+2026-11-28,bjb-rebatig,Rebatig PTZ,Banjarbaru,1,1920x1080,1053
+2026-11-28,bjb-depan_stimik_arah_banjarbaru,STIMIK Arah Banjarbaru,Banjarbaru,1,2560x1440,2940
+2026-11-28,bjb-sultan_agung_arah_banjarbaru,Sultan Agung Arah Banjarbaru,Banjarbaru,0,,
+2026-11-28,bjb-taman_minggu_raya,Taman Minggu Raya,Banjarbaru,1,2560x1440,2749
+2026-11-28,bjb-breeze,The Breeze Water Park,Banjarbaru,1,2560x1440,2784
+2026-11-28,bjb-s3_trikora_cempaka,Trikora Cempaka,Banjarbaru,1,2560x1440,3292
+2026-11-28,bjb-s3_trikora_arah_bjb,Trikora Cempaka Arah Banjarbaru,Banjarbaru,1,2560x1440,3397
+2026-11-28,bjm-01cda531-1c23-444d-a1e5-cfd1666951dc,Bundaran Pintu Masuk Sabilal,Banjarmasin,1,1920x1080,4506
+2026-11-28,bjm-0e3874d0-fd4d-43dc-afa6-b6d829fcefd5,Halaman Jembatan Pulau Bromo,Banjarmasin,1,1280x720,688
+2026-11-28,bjm-8de6d3eb-02d9-4f5d-9d4c-042a0733c7e0,Jembatan Patih Sisi Kanan,Banjarmasin,1,1920x1080,618
+2026-11-28,bjm-51551320-1b4e-4b95-b35f-618e5ab0d660,Jembatan Patih Turunan kanan,Banjarmasin,1,1280x720,567
+2026-11-28,bjm-a0eb1cc5-8e23-4aca-9121-d5a4a862b751,Jembatan Pulau Bromo Turunan,Banjarmasin,1,1280x720,1343
+2026-11-28,bjm-38e04f7b-bf83-411c-b5f4-e74c2f114640,Jembatan SakaHarang,Banjarmasin,1,1920x1080,3702
+2026-11-28,bjm-11f25435-4ece-4275-b648-43adad6a1191,Pulau Insan,Banjarmasin,1,1920x1080,3884
+2026-11-28,bjm-ea351275-8272-4e96-af8b-1dfbf33101c1,Samping Tugu 0km,Banjarmasin,1,1920x1080,1116
+2026-11-28,bjm-cccee148-8c53-417d-b440-323850889df1,Siring 0km,Banjarmasin,1,1920x1080,4384
+2026-11-28,bjm-051d8a81-ee89-4863-af0f-da8c58b39368,Siring 0km 2,Banjarmasin,1,1920x1080,1065
+2026-11-28,bjm-a512a3d0-d394-4280-8020-2bcb4f90aed1,Siring 0km Panggung,Banjarmasin,1,1920x1080,1068
+2026-11-28,bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2,Siring Pos Dermaga,Banjarmasin,1,1280x720,477
+2026-11-28,bjm-0082986b-7d12-41ea-bda2-c59727406423,Taman Jahri Saleh Pintu Masuk,Banjarmasin,1,1920x1080,4506
+2026-11-28,bjm-a35996a7-ead4-466c-aa6c-25621fa073a8,Taman Jahri Saleh View 1,Banjarmasin,1,1920x1080,4506
+2026-11-28,bjm-f1e29830-8fa7-48bf-b25d-0534a5f3d315,Taman Jahri Saleh View 2,Banjarmasin,1,1920x1080,4506
+2026-11-28,bjm-e046291d-3c96-468d-87cd-c9d381ab044e,Taman Kelayan Basket,Banjarmasin,1,2560x1440,5552
+2026-11-28,bjm-3e9f8de0-d15b-4963-a9ea-14d0dae8a8fb,Taman Kelayan Sungai,Banjarmasin,1,1920x1080,4011
+2026-11-28,bjm-d9d68744-6e58-44c7-89dc-5516d0f219fb,TPS Kuripan,Banjarmasin,1,1280x720,1073
+2026-11-28,bjm-4e3803b3-403b-4e91-9df3-6f0e1b8d32a1,TPS Kuripan kanan,Banjarmasin,1,1920x1080,1778
+2026-11-28,bjm-db1e1e52-55ce-4cd9-91c7-ddbf593ae657,TPS Kuripan kiri,Banjarmasin,1,1280x720,1007
+2026-11-28,bjm-c625b143-3fed-4262-93ad-18fa4e64c29e,Siring Dermaga,Banjarmasin,1,2560x1440,2370

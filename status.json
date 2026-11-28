@@ -1,13 +1,13 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T02:41:21Z",
-    "generated_wib": "27 Nov 2026 09:41 WIB",
+    "generated_at": "2026-11-28T02:29:47Z",
+    "generated_wib": "28 Nov 2026 09:29 WIB",
     "total": 64,
-    "live": 52,
-    "offline": 12,
-    "removed": 32,
+    "live": 47,
+    "offline": 17,
+    "removed": 7,
     "sources": {
-      "banjarbaru": true,
+      "banjarbaru": false,
       "banjarmasin": true
     }
   },
@@ -18,11 +18,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/a1_simpang4_arah_pom/index.m3u8",
       "ok": true,
-      "lat": -3.443051,
-      "lng": 114.848161,
-      "uptime_pct": 75,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "1280x720",
-      "bandwidth_kbps": 920,
+      "bandwidth_kbps": 980,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-a1_simpang4_arah_pom.jpg"
     },
     {
@@ -30,12 +30,12 @@
       "name": "A2 Ulin Simpang 4",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8",
-      "ok": true,
-      "lat": -3.443152,
-      "lng": 114.848332,
-      "uptime_pct": 100,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "1280x720",
-      "bandwidth_kbps": 553,
+      "bandwidth_kbps": 678,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-a2_simpang4_arah_sungai_ulin.jpg"
     },
     {
@@ -43,12 +43,12 @@
       "name": "A3 PTZ Simpang 4",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8",
-      "ok": true,
-      "lat": -3.443304,
-      "lng": 114.84811,
-      "uptime_pct": 75,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 60,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 3583,
+      "bandwidth_kbps": 3855,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-a3_ptz_simpang4.jpg"
     },
     {
@@ -57,11 +57,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/depan_disdukcapil/index.m3u8",
       "ok": true,
-      "lat": -3.44258587,
-      "lng": 114.83060628,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 2813,
+      "bandwidth_kbps": 3138,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-depan_disdukcapil.jpg"
     },
     {
@@ -69,12 +69,12 @@
       "name": "Arah Gerbang ULM",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/arah_gerbang_ulm/index.m3u8",
-      "ok": false,
-      "lat": -3.443115,
-      "lng": 114.844973,
-      "uptime_pct": 50,
+      "ok": true,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 60,
       "resolution": "1280x720",
-      "bandwidth_kbps": 595,
+      "bandwidth_kbps": 1426,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-arah_gerbang_ulm.jpg"
     },
     {
@@ -82,12 +82,12 @@
       "name": "Arah Museum",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/arah_museum/index.m3u8",
-      "ok": true,
-      "lat": -3.443013,
-      "lng": 114.837588,
-      "uptime_pct": 75,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 60,
       "resolution": "1280x720",
-      "bandwidth_kbps": 444,
+      "bandwidth_kbps": 437,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-arah_museum.jpg"
     },
     {
@@ -96,11 +96,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/arah_polresta/index.m3u8",
       "ok": true,
-      "lat": -3.44301437,
-      "lng": 114.83727944,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "1280x720",
-      "bandwidth_kbps": 530,
+      "bandwidth_kbps": 830,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-arah_polresta.jpg"
     },
     {
@@ -109,11 +109,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/arah_purnama/index.m3u8",
       "ok": true,
-      "lat": -3.443126,
-      "lng": 114.8452,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 1545,
+      "bandwidth_kbps": 1999,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-arah_purnama.jpg"
     },
     {
@@ -121,12 +121,12 @@
       "name": "Brimob Arah Simpang 3",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/brimob_arah_simpang_3/index.m3u8",
-      "ok": true,
-      "lat": -3.44824046,
-      "lng": 114.80380297,
-      "uptime_pct": 100,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "2688x1520",
-      "bandwidth_kbps": 3328,
+      "bandwidth_kbps": 3248,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-brimob_arah_simpang_3.jpg"
     },
     {
@@ -134,12 +134,12 @@
       "name": "Bundaran Palam Trikora Taman PAMA",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8",
-      "ok": true,
-      "lat": -3.4611934,
-      "lng": 114.81083572,
-      "uptime_pct": 75,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 60,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 3061,
+      "bandwidth_kbps": 2905,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-taman_pama_arah_bundaran.jpg"
     },
     {
@@ -148,11 +148,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/bundaran_stm/index.m3u8",
       "ok": true,
-      "lat": -3.43899284,
-      "lng": 114.84238654,
-      "uptime_pct": 75,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 689,
+      "bandwidth_kbps": 740,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-bundaran_stm.jpg"
     },
     {
@@ -160,12 +160,12 @@
       "name": "Bundaran Trikora Masjid Al-munawarah",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8",
-      "ok": true,
-      "lat": -3.4619966,
-      "lng": 114.82597679,
-      "uptime_pct": 75,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 60,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 3037,
+      "bandwidth_kbps": 2980,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-bundaran_mesjid_al_munawwarah.jpg"
     },
     {
@@ -173,12 +173,12 @@
       "name": "C2 Banjarmasin Simpang 4",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8",
-      "ok": false,
-      "lat": -3.443161,
-      "lng": 114.847052,
-      "uptime_pct": 75,
+      "ok": true,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 3657,
+      "bandwidth_kbps": 3656,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-c2_simpang4_arah_banjarmasin.jpg"
     },
     {
@@ -186,12 +186,12 @@
       "name": "C3 PTZ Simpang 4",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/index.m3u8",
-      "ok": false,
-      "lat": -3.44309407,
-      "lng": 114.84729235,
-      "uptime_pct": 75,
+      "ok": true,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 773,
+      "bandwidth_kbps": 867,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-c3_ptz_simpang4_banjarbaru.jpg"
     },
     {
@@ -199,12 +199,12 @@
       "name": "CCTV Pertigaan Trikora Arah RO Ulin",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/pertigaan_trikora_arah_ro_ulin/index.m3u8",
-      "ok": false,
-      "lat": -3.46185738,
-      "lng": 114.81782556,
-      "uptime_pct": 75,
+      "ok": true,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 3147,
+      "bandwidth_kbps": 3142,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-pertigaan_trikora_arah_ro_ulin.jpg"
     },
     {
@@ -213,11 +213,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/depan_gg_bhayangkara/index.m3u8",
       "ok": true,
-      "lat": -3.45209584,
-      "lng": 114.8466593,
-      "uptime_pct": 75,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 3398,
+      "bandwidth_kbps": 3204,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-depan_gg_bhayangkara.jpg"
     },
     {
@@ -225,26 +225,13 @@
       "name": "Depan STIMIK Arah Banjarmasin",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/depan_stimik_arah_banjarmasin/index.m3u8",
-      "ok": false,
-      "lat": -3.44277864,
-      "lng": 114.82263744,
-      "uptime_pct": 50,
+      "ok": true,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 60,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 2754,
+      "bandwidth_kbps": 2748,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-depan_stimik_arah_banjarmasin.jpg"
-    },
-    {
-      "key": "bjb-Halte_minggu_raya",
-      "name": "Halte_minggu_raya",
-      "group": "Banjarbaru",
-      "url": "https://stream-dev.banjarbarukota.go.id/Halte_minggu_raya/index.m3u8",
-      "ok": false,
-      "lat": -3.44282148,
-      "lng": 114.83017981,
-      "uptime_pct": 50,
-      "resolution": "1920x1080",
-      "bandwidth_kbps": 985,
-      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-Halte_minggu_raya.jpg"
     },
     {
       "key": "bjb-jembatan_al_mansyur",
@@ -252,24 +239,37 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/jembatan_al_mansyur/index.m3u8",
       "ok": true,
-      "lat": -3.44582548,
-      "lng": 114.82790262,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 2760,
+      "bandwidth_kbps": 2711,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_al_mansyur.jpg"
+    },
+    {
+      "key": "bjb-jembatan_cempaka_1",
+      "name": "Jembatan Cempaka 1",
+      "group": "Banjarbaru",
+      "url": "https://stream-dev.banjarbarukota.go.id/jembatan_cempaka_1/index.m3u8",
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 50,
+      "resolution": "640x480",
+      "bandwidth_kbps": 215,
+      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_cempaka_1.jpg"
     },
     {
       "key": "bjb-jembatan_cempaka_2",
       "name": "Jembatan Cempaka 2",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/jembatan_cempaka_2/index.m3u8",
-      "ok": false,
-      "lat": -3.49491628,
-      "lng": 114.85113859,
-      "uptime_pct": 67,
+      "ok": true,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 75,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 5442,
+      "bandwidth_kbps": 5696,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_cempaka_2.jpg"
     },
     {
@@ -278,12 +278,25 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/jembatan_kembar_arah_banjarbaru/index.m3u8",
       "ok": true,
-      "lat": -3.44338908,
-      "lng": 114.8184076,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2688x1520",
-      "bandwidth_kbps": 3090,
+      "bandwidth_kbps": 2965,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_kembar_arah_banjarbaru.jpg"
+    },
+    {
+      "key": "bjb-jembatan_kembar_arah_banjarmasin",
+      "name": "Jembatan Kembar Arah Banjarmasin",
+      "group": "Banjarbaru",
+      "url": "https://stream-dev.banjarbarukota.go.id/jembatan_kembar_arah_banjarmasin/index.m3u8",
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 50,
+      "resolution": "2560x1440",
+      "bandwidth_kbps": 1212,
+      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_kembar_arah_banjarmasin.jpg"
     },
     {
       "key": "bjb-jembatan_kemuning",
@@ -291,11 +304,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/jembatan_kemuning/index.m3u8",
       "ok": false,
-      "lat": -3.44727661,
-      "lng": 114.83043462,
-      "uptime_pct": 75,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 60,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 451,
+      "bandwidth_kbps": 470,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_kemuning.jpg"
     },
     {
@@ -303,25 +316,51 @@
       "name": "JPO Dalam Utara",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/jpo_dalam_utara/index.m3u8",
-      "ok": true,
-      "lat": -3.44277329,
-      "lng": 114.82663661,
-      "uptime_pct": 75,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 60,
       "resolution": "2688x1520",
-      "bandwidth_kbps": 2935,
+      "bandwidth_kbps": 2687,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jpo_dalam_utara.jpg"
+    },
+    {
+      "key": "bjb-jpo_tangga_selatan",
+      "name": "JPO Tangga Selatan",
+      "group": "Banjarbaru",
+      "url": "https://stream-dev.banjarbarukota.go.id/jpo_tangga_selatan/index.m3u8",
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 50,
+      "resolution": "2688x1520",
+      "bandwidth_kbps": 4140,
+      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jpo_tangga_selatan.jpg"
+    },
+    {
+      "key": "bjb-jpo_tangga_utara",
+      "name": "JPO Tangga Utara",
+      "group": "Banjarbaru",
+      "url": "https://stream-dev.banjarbarukota.go.id/jpo_tangga_utara/index.m3u8",
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 50,
+      "resolution": "2688x1520",
+      "bandwidth_kbps": 2838,
+      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jpo_tangga_utara.jpg"
     },
     {
       "key": "bjb-lampu_merah_ro_ulin_arah_bjb",
       "name": "KM33 Utara Arah Banjarbaru",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/lampu_merah_ro_ulin_arah_bjb/index.m3u8",
-      "ok": true,
-      "lat": -3.44443861,
-      "lng": 114.81658638,
-      "uptime_pct": 100,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 445,
+      "bandwidth_kbps": 431,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-lampu_merah_ro_ulin_arah_bjb.jpg"
     },
     {
@@ -330,11 +369,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/ptz_murjani/index.m3u8",
       "ok": true,
-      "lat": -3.43946405,
-      "lng": 114.83122051,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 4598,
+      "bandwidth_kbps": 3540,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-ptz_murjani.jpg"
     },
     {
@@ -343,11 +382,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8",
       "ok": true,
-      "lat": -3.45637958,
-      "lng": 114.81812865,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 3373,
+      "bandwidth_kbps": 4089,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-pertigaan_ambulung.jpg"
     },
     {
@@ -356,11 +395,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/pertigaan_trikora_arah_mesjid_agung/index.m3u8",
       "ok": true,
-      "lat": -3.46198589,
-      "lng": 114.81797576,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 2787,
+      "bandwidth_kbps": 2766,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-pertigaan_trikora_arah_mesjid_agung.jpg"
     },
     {
@@ -368,12 +407,12 @@
       "name": "Polsek BJB Arah Banjarmasin",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/depan_polsek_arah_banjarmasin/index.m3u8",
-      "ok": true,
-      "lat": -3.44288574,
-      "lng": 114.82901305,
-      "uptime_pct": 100,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 2878,
+      "bandwidth_kbps": 2922,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-depan_polsek_arah_banjarmasin.jpg"
     },
     {
@@ -382,11 +421,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/ptz_brimob/index.m3u8",
       "ok": true,
-      "lat": -3.44841716,
-      "lng": 114.80375469,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 519,
+      "bandwidth_kbps": 687,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-ptz_brimob.jpg"
     },
     {
@@ -395,11 +434,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8",
       "ok": false,
-      "lat": -3.44445467,
-      "lng": 114.81645763,
-      "uptime_pct": 67,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 50,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 3929,
+      "bandwidth_kbps": 3974,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-ptz_ro_ulin.jpg"
     },
     {
@@ -408,11 +447,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/taman_mawar_ptz_arah_sd/index.m3u8",
       "ok": false,
-      "lat": -3.44163808,
-      "lng": 114.83423531,
-      "uptime_pct": 50,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 40,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 1883,
+      "bandwidth_kbps": 1973,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-taman_mawar_ptz_arah_sd.jpg"
     },
     {
@@ -421,11 +460,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/qmall_arah_batas_kota/index.m3u8",
       "ok": true,
-      "lat": -3.43769259,
-      "lng": 114.84833287,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "3072x1728",
-      "bandwidth_kbps": 3008,
+      "bandwidth_kbps": 3749,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-qmall_arah_batas_kota.jpg"
     },
     {
@@ -434,11 +473,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8",
       "ok": true,
-      "lat": -3.43854908,
-      "lng": 114.84824722,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 3077,
+      "bandwidth_kbps": 2963,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-qmall_arah_simpang_empat.jpg"
     },
     {
@@ -447,11 +486,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/rebatig/index.m3u8",
       "ok": true,
-      "lat": -3.44208817,
-      "lng": 114.83248863,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 1034,
+      "bandwidth_kbps": 1053,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-rebatig.jpg"
     },
     {
@@ -460,11 +499,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/depan_stimik_arah_banjarbaru/index.m3u8",
       "ok": true,
-      "lat": -3.44278935,
-      "lng": 114.82292712,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 2700,
+      "bandwidth_kbps": 2940,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-depan_stimik_arah_banjarbaru.jpg"
     },
     {
@@ -472,12 +511,12 @@
       "name": "Sultan Agung Arah Banjarbaru",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/sultan_agung_arah_banjarbaru/index.m3u8",
-      "ok": true,
-      "lat": -3.43324716,
-      "lng": 114.68977958,
-      "uptime_pct": 100,
-      "resolution": "2560x1440",
-      "bandwidth_kbps": 863,
+      "ok": false,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
+      "resolution": null,
+      "bandwidth_kbps": null,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-sultan_agung_arah_banjarbaru.jpg"
     },
     {
@@ -486,11 +525,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/taman_minggu_raya/index.m3u8",
       "ok": true,
-      "lat": -3.44243594,
-      "lng": 114.83082622,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 2709,
+      "bandwidth_kbps": 2749,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-taman_minggu_raya.jpg"
     },
     {
@@ -499,11 +538,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/breeze/index.m3u8",
       "ok": true,
-      "lat": -3.42847633,
-      "lng": 114.77188144,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 2793,
+      "bandwidth_kbps": 2784,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-breeze.jpg"
     },
     {
@@ -511,12 +550,12 @@
       "name": "Trikora Cempaka",
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/s3_trikora_cempaka/index.m3u8",
-      "ok": false,
-      "lat": -3.46103276,
-      "lng": 114.84912425,
-      "uptime_pct": 75,
+      "ok": true,
+      "lat": null,
+      "lng": null,
+      "uptime_pct": 80,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 3399,
+      "bandwidth_kbps": 3292,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-s3_trikora_cempaka.jpg"
     },
     {
@@ -525,11 +564,11 @@
       "group": "Banjarbaru",
       "url": "https://stream-dev.banjarbarukota.go.id/s3_trikora_arah_bjb/index.m3u8",
       "ok": true,
-      "lat": -3.46092567,
-      "lng": 114.84904915,
+      "lat": null,
+      "lng": null,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 3743,
+      "bandwidth_kbps": 3397,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-s3_trikora_arah_bjb.jpg"
     },
     {
@@ -550,12 +589,12 @@
       "name": "Halaman Jembatan Pulau Bromo",
       "group": "Banjarmasin",
       "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/ec158432-3fac-4468-8a60-b07d63016e67.m3u8",
-      "ok": false,
+      "ok": true,
       "lat": -3.3507638,
       "lng": 114.5450288,
-      "uptime_pct": 50,
-      "resolution": null,
-      "bandwidth_kbps": null,
+      "uptime_pct": 67,
+      "resolution": "1280x720",
+      "bandwidth_kbps": 688,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-0e3874d0-fd4d-43dc-afa6-b6d829fcefd5.jpg"
     },
     {
@@ -568,7 +607,7 @@
       "lng": 114.5720078,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 462,
+      "bandwidth_kbps": 618,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-8de6d3eb-02d9-4f5d-9d4c-042a0733c7e0.jpg"
     },
     {
@@ -581,7 +620,7 @@
       "lng": 114.5720078,
       "uptime_pct": 100,
       "resolution": "1280x720",
-      "bandwidth_kbps": 513,
+      "bandwidth_kbps": 567,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-51551320-1b4e-4b95-b35f-618e5ab0d660.jpg"
     },
     {
@@ -594,7 +633,7 @@
       "lng": 114.5446372,
       "uptime_pct": 100,
       "resolution": "1280x720",
-      "bandwidth_kbps": 1198,
+      "bandwidth_kbps": 1343,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-a0eb1cc5-8e23-4aca-9121-d5a4a862b751.jpg"
     },
     {
@@ -607,7 +646,7 @@
       "lng": 114.5500338,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 3833,
+      "bandwidth_kbps": 3702,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-38e04f7b-bf83-411c-b5f4-e74c2f114640.jpg"
     },
     {
@@ -620,7 +659,7 @@
       "lng": 114.5787388,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 3756,
+      "bandwidth_kbps": 3884,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-11f25435-4ece-4275-b648-43adad6a1191.jpg"
     },
     {
@@ -633,7 +672,7 @@
       "lng": 114.5942755,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 1002,
+      "bandwidth_kbps": 1116,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-ea351275-8272-4e96-af8b-1dfbf33101c1.jpg"
     },
     {
@@ -646,7 +685,7 @@
       "lng": 114.5942755,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 3717,
+      "bandwidth_kbps": 4384,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-cccee148-8c53-417d-b440-323850889df1.jpg"
     },
     {
@@ -659,7 +698,7 @@
       "lng": 114.5942755,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 1083,
+      "bandwidth_kbps": 1065,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-051d8a81-ee89-4863-af0f-da8c58b39368.jpg"
     },
     {
@@ -672,8 +711,21 @@
       "lng": 114.5942755,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 1099,
+      "bandwidth_kbps": 1068,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-a512a3d0-d394-4280-8020-2bcb4f90aed1.jpg"
+    },
+    {
+      "key": "bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2",
+      "name": "Siring Pos Dermaga",
+      "group": "Banjarmasin",
+      "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/ade8407f-4d92-429c-bf89-2c87e1938c6e.m3u8",
+      "ok": true,
+      "lat": -3.3278374,
+      "lng": 114.588623,
+      "uptime_pct": 100,
+      "resolution": "1280x720",
+      "bandwidth_kbps": 477,
+      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2.jpg"
     },
     {
       "key": "bjm-0082986b-7d12-41ea-bda2-c59727406423",
@@ -724,7 +776,7 @@
       "lng": 114.594816,
       "uptime_pct": 100,
       "resolution": "2560x1440",
-      "bandwidth_kbps": 5660,
+      "bandwidth_kbps": 5552,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-e046291d-3c96-468d-87cd-c9d381ab044e.jpg"
     },
     {
@@ -737,7 +789,7 @@
       "lng": 114.594816,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 3665,
+      "bandwidth_kbps": 4011,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-3e9f8de0-d15b-4963-a9ea-14d0dae8a8fb.jpg"
     },
     {
@@ -750,7 +802,7 @@
       "lng": 114.6046106,
       "uptime_pct": 100,
       "resolution": "1280x720",
-      "bandwidth_kbps": 1100,
+      "bandwidth_kbps": 1073,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-d9d68744-6e58-44c7-89dc-5516d0f219fb.jpg"
     },
     {
@@ -763,7 +815,7 @@
       "lng": 114.6046106,
       "uptime_pct": 100,
       "resolution": "1920x1080",
-      "bandwidth_kbps": 1870,
+      "bandwidth_kbps": 1778,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-4e3803b3-403b-4e91-9df3-6f0e1b8d32a1.jpg"
     },
     {
@@ -776,73 +828,21 @@
       "lng": 114.6046106,
       "uptime_pct": 100,
       "resolution": "1280x720",
-      "bandwidth_kbps": 1062,
+      "bandwidth_kbps": 1007,
       "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-db1e1e52-55ce-4cd9-91c7-ddbf593ae657.jpg"
     },
     {
-      "key": "bjb-jembatan_kembar_arah_banjarmasin",
-      "name": "Jembatan Kembar Arah Banjarmasin",
-      "group": "Banjarbaru",
-      "url": "https://stream-dev.banjarbarukota.go.id/jembatan_kembar_arah_banjarmasin/index.m3u8",
-      "ok": true,
-      "lat": -3.44346405,
-      "lng": 114.81823057,
-      "uptime_pct": 100,
-      "resolution": "2560x1440",
-      "bandwidth_kbps": 2027,
-      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_kembar_arah_banjarmasin.jpg"
-    },
-    {
-      "key": "bjb-jpo_tangga_selatan",
-      "name": "JPO Tangga Selatan",
-      "group": "Banjarbaru",
-      "url": "https://stream-dev.banjarbarukota.go.id/jpo_tangga_selatan/index.m3u8",
-      "ok": true,
-      "lat": -3.44268761,
-      "lng": 114.82671708,
-      "uptime_pct": 100,
-      "resolution": "2688x1520",
-      "bandwidth_kbps": 5564,
-      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jpo_tangga_selatan.jpg"
-    },
-    {
-      "key": "bjb-jpo_tangga_utara",
-      "name": "JPO Tangga Utara",
-      "group": "Banjarbaru",
-      "url": "https://stream-dev.banjarbarukota.go.id/jpo_tangga_utara/index.m3u8",
-      "ok": true,
-      "lat": -3.44303567,
-      "lng": 114.82655615,
-      "uptime_pct": 100,
-      "resolution": "2688x1520",
-      "bandwidth_kbps": 3052,
-      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jpo_tangga_utara.jpg"
-    },
-    {
-      "key": "bjb-jembatan_cempaka_1",
-      "name": "Jembatan Cempaka 1",
-      "group": "Banjarbaru",
-      "url": "https://stream-dev.banjarbarukota.go.id/jembatan_cempaka_1/index.m3u8",
-      "ok": true,
-      "lat": -3.48750035,
-      "lng": 114.8528713,
-      "uptime_pct": 100,
-      "resolution": "640x480",
-      "bandwidth_kbps": 208,
-      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_cempaka_1.jpg"
-    },
-    {
-      "key": "bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2",
-      "name": "Siring Pos Dermaga",
+      "key": "bjm-c625b143-3fed-4262-93ad-18fa4e64c29e",
+      "name": "Siring Dermaga",
       "group": "Banjarmasin",
-      "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/ade8407f-4d92-429c-bf89-2c87e1938c6e.m3u8",
+      "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/180f6b55-aa16-41f1-b1a2-28bf336ddfb4.m3u8",
       "ok": true,
       "lat": -3.3278374,
       "lng": 114.588623,
       "uptime_pct": 100,
-      "resolution": "1280x720",
-      "bandwidth_kbps": 570,
-      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2.jpg"
+      "resolution": "2560x1440",
+      "bandwidth_kbps": 2370,
+      "logo": "https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-c625b143-3fed-4262-93ad-18fa4e64c29e.jpg"
     }
   ]
 }

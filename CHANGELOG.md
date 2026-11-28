@@ -1,4 +1,19 @@
 # Changelog
+## 2026-11-28
+- 🆕 **NEW**: Kamboja Taman View 1 — kamera baru dari sumber
+- 🆕 **NEW**: Kamboja Taman View 2 — kamera baru dari sumber
+- 🆕 **NEW**: Jembatan Patih Simpang 3 — kamera baru dari sumber
+- 🆕 **NEW**: Taman Kelayan Utama — kamera baru dari sumber
+- 🆕 **NEW**: Siring Dermaga — kamera baru dari sumber
+- 🆕 **NEW**: Pintu Masuk Menara Pandang — kamera baru dari sumber
+- 🆕 **NEW**: Kelayan - Rusunawa Persimpangan — kamera baru dari sumber
+- ❌ **REMOVED**: Halte_minggu_raya — gagal 3x beruntun (segmen HTTP 404)
+- ❌ **REMOVED**: Kamboja Taman View 1 — baru tapi mati, dilewati
+- ❌ **REMOVED**: Kamboja Taman View 2 — baru tapi mati, dilewati
+- ❌ **REMOVED**: Jembatan Patih Simpang 3 — baru tapi mati, dilewati
+- ❌ **REMOVED**: Taman Kelayan Utama — baru tapi mati, dilewati
+- ❌ **REMOVED**: Pintu Masuk Menara Pandang — baru tapi mati, dilewati
+- ❌ **REMOVED**: Kelayan - Rusunawa Persimpangan — baru tapi mati, dilewati
 ## 2026-11-27
 - 🆕 **NEW**: B2 Cempaka Simpang 4 — kamera baru dari sumber
 - 🆕 **NEW**: Balai Kota Arah Murdjani — kamera baru dari sumber

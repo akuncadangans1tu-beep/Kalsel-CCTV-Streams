@@ -1,41 +1,45 @@
 {
   "bjb-a1_simpang4_arah_pom": {
-    "total": 4,
-    "ok": 3,
+    "total": 5,
+    "ok": 4,
     "recent": [
       true,
       false,
       true,
+      true,
       true
     ],
-    "uptime_pct": 75
+    "uptime_pct": 80
   },
   "bjb-a2_simpang4_arah_sungai_ulin": {
-    "total": 4,
+    "total": 5,
     "ok": 4,
     "recent": [
       true,
       true,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 80
   },
   "bjb-a3_ptz_simpang4": {
-    "total": 4,
+    "total": 5,
     "ok": 3,
     "recent": [
       true,
       false,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 75
+    "uptime_pct": 60
   },
   "bjb-depan_disdukcapil": {
-    "total": 4,
-    "ok": 4,
+    "total": 5,
+    "ok": 5,
     "recent": [
+      true,
       true,
       true,
       true,
@@ -44,31 +48,34 @@
     "uptime_pct": 100
   },
   "bjb-arah_gerbang_ulm": {
-    "total": 4,
-    "ok": 2,
-    "recent": [
-      true,
-      true,
-      false,
-      false
-    ],
-    "uptime_pct": 50
-  },
-  "bjb-arah_museum": {
-    "total": 4,
+    "total": 5,
     "ok": 3,
     "recent": [
       true,
       true,
       false,
+      false,
       true
     ],
-    "uptime_pct": 75
+    "uptime_pct": 60
+  },
+  "bjb-arah_museum": {
+    "total": 5,
+    "ok": 3,
+    "recent": [
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "uptime_pct": 60
   },
   "bjb-arah_polresta": {
-    "total": 4,
-    "ok": 4,
+    "total": 5,
+    "ok": 5,
     "recent": [
+      true,
       true,
       true,
       true,
@@ -77,9 +84,10 @@
     "uptime_pct": 100
   },
   "bjb-arah_purnama": {
-    "total": 4,
-    "ok": 4,
+    "total": 5,
+    "ok": 5,
     "recent": [
+      true,
       true,
       true,
       true,
@@ -88,152 +96,154 @@
     "uptime_pct": 100
   },
   "bjb-brimob_arah_simpang_3": {
-    "total": 4,
+    "total": 5,
     "ok": 4,
     "recent": [
       true,
       true,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 80
   },
   "bjb-taman_pama_arah_bundaran": {
-    "total": 4,
+    "total": 5,
     "ok": 3,
     "recent": [
       true,
       false,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 75
+    "uptime_pct": 60
   },
   "bjb-bundaran_stm": {
-    "total": 4,
-    "ok": 3,
+    "total": 5,
+    "ok": 4,
     "recent": [
       true,
       true,
       false,
+      true,
       true
     ],
-    "uptime_pct": 75
+    "uptime_pct": 80
   },
   "bjb-bundaran_mesjid_al_munawwarah": {
-    "total": 4,
+    "total": 5,
     "ok": 3,
     "recent": [
       true,
       false,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 75
+    "uptime_pct": 60
   },
   "bjb-c2_simpang4_arah_banjarmasin": {
-    "total": 4,
-    "ok": 3,
+    "total": 5,
+    "ok": 4,
     "recent": [
       true,
       true,
       true,
-      false
+      false,
+      true
     ],
-    "uptime_pct": 75
+    "uptime_pct": 80
   },
   "bjb-c3_ptz_simpang4_banjarbaru": {
-    "total": 4,
-    "ok": 3,
+    "total": 5,
+    "ok": 4,
     "recent": [
       true,
       true,
       true,
-      false
+      false,
+      true
     ],
-    "uptime_pct": 75
+    "uptime_pct": 80
   },
   "bjb-pertigaan_trikora_arah_ro_ulin": {
-    "total": 4,
-    "ok": 3,
+    "total": 5,
+    "ok": 4,
     "recent": [
       true,
       true,
       true,
-      false
+      false,
+      true
     ],
-    "uptime_pct": 75
+    "uptime_pct": 80
   },
   "bjb-depan_gg_bhayangkara": {
-    "total": 4,
-    "ok": 3,
+    "total": 5,
+    "ok": 4,
     "recent": [
       true,
       true,
       false,
+      true,
       true
     ],
-    "uptime_pct": 75
+    "uptime_pct": 80
   },
   "bjb-depan_stimik_arah_banjarmasin": {
-    "total": 4,
-    "ok": 2,
+    "total": 5,
+    "ok": 3,
     "recent": [
       true,
       true,
       false,
-      false
-    ],
-    "uptime_pct": 50
-  },
-  "bjb-Halte_minggu_raya": {
-    "total": 4,
-    "ok": 2,
-    "recent": [
-      true,
-      true,
       false,
-      false
+      true
     ],
-    "uptime_pct": 50
+    "uptime_pct": 60
   },
   "bjb-jembatan_kemuning": {
-    "total": 4,
+    "total": 5,
     "ok": 3,
     "recent": [
       true,
       true,
       true,
+      false,
       false
     ],
-    "uptime_pct": 75
+    "uptime_pct": 60
   },
   "bjb-jpo_dalam_utara": {
-    "total": 4,
+    "total": 5,
     "ok": 3,
     "recent": [
       true,
       false,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 75
+    "uptime_pct": 60
   },
   "bjb-lampu_merah_ro_ulin_arah_bjb": {
-    "total": 4,
+    "total": 5,
     "ok": 4,
     "recent": [
       true,
       true,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 80
   },
   "bjb-pertigaan_ambulung": {
-    "total": 4,
-    "ok": 4,
+    "total": 5,
+    "ok": 5,
     "recent": [
+      true,
       true,
       true,
       true,
@@ -242,31 +252,34 @@
     "uptime_pct": 100
   },
   "bjb-depan_polsek_arah_banjarmasin": {
-    "total": 4,
+    "total": 5,
     "ok": 4,
     "recent": [
       true,
       true,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 80
   },
   "bjb-taman_mawar_ptz_arah_sd": {
-    "total": 4,
+    "total": 5,
     "ok": 2,
     "recent": [
       true,
       false,
       true,
+      false,
       false
     ],
-    "uptime_pct": 50
+    "uptime_pct": 40
   },
   "bjb-qmall_arah_batas_kota": {
-    "total": 4,
-    "ok": 4,
+    "total": 5,
+    "ok": 5,
     "recent": [
+      true,
       true,
       true,
       true,
@@ -275,9 +288,10 @@
     "uptime_pct": 100
   },
   "bjb-qmall_arah_simpang_empat": {
-    "total": 4,
-    "ok": 4,
+    "total": 5,
+    "ok": 5,
     "recent": [
+      true,
       true,
       true,
       true,
@@ -286,9 +300,10 @@
     "uptime_pct": 100
   },
   "bjb-rebatig": {
-    "total": 4,
-    "ok": 4,
+    "total": 5,
+    "ok": 5,
     "recent": [
+      true,
       true,
       true,
       true,
@@ -297,20 +312,22 @@
     "uptime_pct": 100
   },
   "bjb-sultan_agung_arah_banjarbaru": {
-    "total": 4,
+    "total": 5,
     "ok": 4,
     "recent": [
       true,
       true,
       true,
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 80
   },
   "bjb-taman_minggu_raya": {
-    "total": 4,
-    "ok": 4,
+    "total": 5,
+    "ok": 5,
     "recent": [
+      true,
       true,
       true,
       true,
@@ -319,20 +336,22 @@
     "uptime_pct": 100
   },
   "bjb-s3_trikora_cempaka": {
-    "total": 4,
-    "ok": 3,
-    "recent": [
-      true,
-      true,
-      true,
-      false
-    ],
-    "uptime_pct": 75
-  },
-  "bjb-s3_trikora_arah_bjb": {
-    "total": 4,
+    "total": 5,
     "ok": 4,
     "recent": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "uptime_pct": 80
+  },
+  "bjb-s3_trikora_arah_bjb": {
+    "total": 5,
+    "ok": 5,
+    "recent": [
+      true,
       true,
       true,
       true,
@@ -341,6 +360,18 @@
     "uptime_pct": 100
   },
   "bjb-ptz_brimob": {
+    "total": 5,
+    "ok": 5,
+    "recent": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-jembatan_al_mansyur": {
     "total": 4,
     "ok": 4,
     "recent": [
@@ -351,30 +382,22 @@
     ],
     "uptime_pct": 100
   },
-  "bjb-jembatan_al_mansyur": {
-    "total": 3,
+  "bjb-jembatan_cempaka_2": {
+    "total": 4,
     "ok": 3,
     "recent": [
       true,
       true,
+      false,
       true
     ],
-    "uptime_pct": 100
-  },
-  "bjb-jembatan_cempaka_2": {
-    "total": 3,
-    "ok": 2,
-    "recent": [
-      true,
-      true,
-      false
-    ],
-    "uptime_pct": 67
+    "uptime_pct": 75
   },
   "bjb-jembatan_kembar_arah_banjarbaru": {
-    "total": 3,
-    "ok": 3,
+    "total": 4,
+    "ok": 4,
     "recent": [
+      true,
       true,
       true,
       true
@@ -382,9 +405,10 @@
     "uptime_pct": 100
   },
   "bjb-pertigaan_trikora_arah_mesjid_agung": {
-    "total": 3,
-    "ok": 3,
+    "total": 4,
+    "ok": 4,
     "recent": [
+      true,
       true,
       true,
       true
@@ -392,19 +416,21 @@
     "uptime_pct": 100
   },
   "bjb-ptz_ro_ulin": {
-    "total": 3,
+    "total": 4,
     "ok": 2,
     "recent": [
       true,
       true,
+      false,
       false
     ],
-    "uptime_pct": 67
+    "uptime_pct": 50
   },
   "bjb-breeze": {
-    "total": 3,
-    "ok": 3,
+    "total": 4,
+    "ok": 4,
     "recent": [
+      true,
       true,
       true,
       true
@@ -412,6 +438,17 @@
     "uptime_pct": 100
   },
   "bjb-ptz_murjani": {
+    "total": 4,
+    "ok": 4,
+    "recent": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-depan_stimik_arah_banjarbaru": {
     "total": 3,
     "ok": 3,
     "recent": [
@@ -421,124 +458,197 @@
     ],
     "uptime_pct": 100
   },
-  "bjb-depan_stimik_arah_banjarbaru": {
-    "total": 2,
-    "ok": 2,
+  "bjm-51551320-1b4e-4b95-b35f-618e5ab0d660": {
+    "total": 3,
+    "ok": 3,
     "recent": [
       true,
-      true
-    ],
-    "uptime_pct": 100
-  },
-  "bjm-51551320-1b4e-4b95-b35f-618e5ab0d660": {
-    "total": 2,
-    "ok": 2,
-    "recent": [
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-8de6d3eb-02d9-4f5d-9d4c-042a0733c7e0": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-db1e1e52-55ce-4cd9-91c7-ddbf593ae657": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-4e3803b3-403b-4e91-9df3-6f0e1b8d32a1": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-d9d68744-6e58-44c7-89dc-5516d0f219fb": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-3e9f8de0-d15b-4963-a9ea-14d0dae8a8fb": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-e046291d-3c96-468d-87cd-c9d381ab044e": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-cccee148-8c53-417d-b440-323850889df1": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-051d8a81-ee89-4863-af0f-da8c58b39368": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-a512a3d0-d394-4280-8020-2bcb4f90aed1": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-ea351275-8272-4e96-af8b-1dfbf33101c1": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-a0eb1cc5-8e23-4aca-9121-d5a4a862b751": {
-    "total": 2,
-    "ok": 2,
+    "total": 3,
+    "ok": 3,
     "recent": [
+      true,
       true,
       true
     ],
     "uptime_pct": 100
   },
   "bjm-0e3874d0-fd4d-43dc-afa6-b6d829fcefd5": {
+    "total": 3,
+    "ok": 2,
+    "recent": [
+      true,
+      false,
+      true
+    ],
+    "uptime_pct": 67
+  },
+  "bjm-f1e29830-8fa7-48bf-b25d-0534a5f3d315": {
+    "total": 3,
+    "ok": 3,
+    "recent": [
+      true,
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjm-a35996a7-ead4-466c-aa6c-25621fa073a8": {
+    "total": 3,
+    "ok": 3,
+    "recent": [
+      true,
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjm-0082986b-7d12-41ea-bda2-c59727406423": {
+    "total": 3,
+    "ok": 3,
+    "recent": [
+      true,
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjm-38e04f7b-bf83-411c-b5f4-e74c2f114640": {
+    "total": 3,
+    "ok": 3,
+    "recent": [
+      true,
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjm-11f25435-4ece-4275-b648-43adad6a1191": {
+    "total": 3,
+    "ok": 3,
+    "recent": [
+      true,
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjm-01cda531-1c23-444d-a1e5-cfd1666951dc": {
+    "total": 3,
+    "ok": 3,
+    "recent": [
+      true,
+      true,
+      true
+    ],
+    "uptime_pct": 100
+  },
+  "bjb-jembatan_kembar_arah_banjarmasin": {
     "total": 2,
     "ok": 1,
     "recent": [
@@ -547,93 +657,43 @@
     ],
     "uptime_pct": 50
   },
-  "bjm-f1e29830-8fa7-48bf-b25d-0534a5f3d315": {
-    "total": 2,
-    "ok": 2,
-    "recent": [
-      true,
-      true
-    ],
-    "uptime_pct": 100
-  },
-  "bjm-a35996a7-ead4-466c-aa6c-25621fa073a8": {
-    "total": 2,
-    "ok": 2,
-    "recent": [
-      true,
-      true
-    ],
-    "uptime_pct": 100
-  },
-  "bjm-0082986b-7d12-41ea-bda2-c59727406423": {
-    "total": 2,
-    "ok": 2,
-    "recent": [
-      true,
-      true
-    ],
-    "uptime_pct": 100
-  },
-  "bjm-38e04f7b-bf83-411c-b5f4-e74c2f114640": {
-    "total": 2,
-    "ok": 2,
-    "recent": [
-      true,
-      true
-    ],
-    "uptime_pct": 100
-  },
-  "bjm-11f25435-4ece-4275-b648-43adad6a1191": {
-    "total": 2,
-    "ok": 2,
-    "recent": [
-      true,
-      true
-    ],
-    "uptime_pct": 100
-  },
-  "bjm-01cda531-1c23-444d-a1e5-cfd1666951dc": {
-    "total": 2,
-    "ok": 2,
-    "recent": [
-      true,
-      true
-    ],
-    "uptime_pct": 100
-  },
-  "bjb-jembatan_kembar_arah_banjarmasin": {
-    "total": 1,
-    "ok": 1,
-    "recent": [
-      true
-    ],
-    "uptime_pct": 100
-  },
   "bjb-jpo_tangga_selatan": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-jpo_tangga_utara": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
-      true
+      true,
+      false
     ],
-    "uptime_pct": 100
+    "uptime_pct": 50
   },
   "bjb-jembatan_cempaka_1": {
-    "total": 1,
+    "total": 2,
     "ok": 1,
     "recent": [
+      true,
+      false
+    ],
+    "uptime_pct": 50
+  },
+  "bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2": {
+    "total": 2,
+    "ok": 2,
+    "recent": [
+      true,
       true
     ],
     "uptime_pct": 100
   },
-  "bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2": {
+  "bjm-c625b143-3fed-4262-93ad-18fa4e64c29e": {
     "total": 1,
     "ok": 1,
     "recent": [

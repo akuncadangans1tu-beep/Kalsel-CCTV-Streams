@@ -67,10 +67,6 @@ https://stream-dev.banjarbarukota.go.id/depan_gg_bhayangkara/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
 https://stream-dev.banjarbarukota.go.id/depan_stimik_arah_banjarmasin/index.m3u8
-#EXTINF:-1 tvg-id="bjb-Halte_minggu_raya" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-Halte_minggu_raya.jpg" group-title="Banjarbaru",Halte_minggu_raya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
-https://stream-dev.banjarbarukota.go.id/Halte_minggu_raya/index.m3u8
 #EXTINF:-1 tvg-id="bjb-jembatan_al_mansyur" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjb-jembatan_al_mansyur.jpg" group-title="Banjarbaru",Jembatan Al-mansyur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarbarukota.go.id/
@@ -219,6 +215,10 @@ https://rtsp-pemko-bjm.aldilinux.my.id/memfs/10969b59-7319-480b-8d65-d24d73c21da
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
 https://rtsp-pemko-bjm.aldilinux.my.id/memfs/deeabb7f-c5fa-4fd2-80cd-9693ca256280.m3u8
+#EXTINF:-1 tvg-id="bjm-c625b143-3fed-4262-93ad-18fa4e64c29e" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-c625b143-3fed-4262-93ad-18fa4e64c29e.jpg" group-title="Banjarmasin",Siring Dermaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+https://rtsp-pemko-bjm.aldilinux.my.id/memfs/180f6b55-aa16-41f1-b1a2-28bf336ddfb4.m3u8
 #EXTINF:-1 tvg-id="bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2" tvg-logo="https://raw.githubusercontent.com/akuncadangans1tu-beep/Kalsel-CCTV-Streams/main/thumbs/bjm-1d8a867e-afcc-4c70-8b05-83f688cbc2b2.jpg" group-title="Banjarmasin",Siring Pos Dermaga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/

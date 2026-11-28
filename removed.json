@@ -1,128 +1,8 @@
 [
   {
-    "key": "bjb-simpang_3_sungai_ulin_arah_mandiangin",
-    "name": "Pertigaan Sungai Ulin Arah Mandiangin",
-    "reason": "gagal 3x beruntun (HTTP 404)"
-  },
-  {
-    "key": "bjb-trikora_a_yani_ujung",
-    "name": "Trikora A.yani Ujung",
-    "reason": "gagal 3x beruntun (HTTP 404)"
-  },
-  {
-    "key": "bjb-b2_arah_cempaka",
-    "name": "B2 Cempaka Simpang 4",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-balai_kota_murjani",
-    "name": "Balai Kota Arah Murdjani",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-bundaran_amaco",
-    "name": "Bundaran Amaco",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-kamaratih_arah_mall",
-    "name": "Bundaran Kamaratih Gerai Pelayanan Arah Jalan Angkasa",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-bundaran_palam_depan_indomaret",
-    "name": "Bundaran Palam Trikora Depan Indomaret",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-c1_simpang4_arah_cempaka",
-    "name": "C1 Polisi Simpang 4",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-pertigaan_kebun_karet",
-    "name": "CCTV Pertigaan Kebun Karet",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-d1_arah_banjarbaru",
-    "name": "D1 Simpang 4 BJB",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-d2_arah_martapura",
-    "name": "D2 Martapura Simpang 4",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-depan_pasar_ulin",
-    "name": "Depan Pasar Ulin Raya",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-ip_camera71",
-    "name": "Halte Ro.ulin",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-halte_STIMIK",
-    "name": "Halte_stimik",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-halte_unlam_1",
-    "name": "Halte_unlam_1",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-jembatan_tonhar",
-    "name": "Jembatan Tonhar Landasan Ulin",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-jpo_dalam_selatan",
-    "name": "JPO Dalam Selatan",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-marka_depan_mesjid_33",
-    "name": "KM33 Depan Mesjid",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-km33_barat_arah_ROulin",
-    "name": "KM33 Utara Arah Ro-ulin",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-simpang_4_barjad",
-    "name": "Perempatan Taruna Praja (barjad)",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-simpang_3_sungai_ulin_arah_banjarbaru",
-    "name": "Pertigaan Sungai Ulin Arah Banjarbaru",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-depan_polsek_arah_simpang4",
-    "name": "Polsek BJB Arah Simpang Empat",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-sultan_agung_arah_banjarmasin",
-    "name": "Sultan Agung Arah Banjarmasin",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-taman_mawar_arah_taman_tengah",
-    "name": "Taman Mawar",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjb-marka_brimob_arah_banjarmasin",
-    "name": "Brimob Arah Banjarmasin",
-    "reason": "baru tapi mati, dilewati"
+    "key": "bjb-Halte_minggu_raya",
+    "name": "Halte_minggu_raya",
+    "reason": "gagal 3x beruntun (segmen HTTP 404)"
   },
   {
     "key": "bjm-6bf68c1e-6c73-4e0a-8408-8307cac977ef",
@@ -142,11 +22,6 @@
   {
     "key": "bjm-e7d6d96d-cf7c-402f-8c6c-d98a362b0e65",
     "name": "Taman Kelayan Utama",
-    "reason": "baru tapi mati, dilewati"
-  },
-  {
-    "key": "bjm-c625b143-3fed-4262-93ad-18fa4e64c29e",
-    "name": "Siring Dermaga",
     "reason": "baru tapi mati, dilewati"
   },
   {
